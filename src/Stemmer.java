@@ -411,6 +411,7 @@ class Stemmer
               }
               if (ch < 0) break;
               System.out.print((char)ch);
+              in.close();
            }
          }
          catch (IOException e)
@@ -422,5 +423,6 @@ class Stemmer
       {  System.out.println("file " + args[i] + " not found");
          break;
       }
+
    }
 }
