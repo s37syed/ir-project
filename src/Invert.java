@@ -1,3 +1,4 @@
+import java.text.ParseException;
 import java.util.*;
 import java.io.*;
 
@@ -19,7 +20,11 @@ public class Invert {
 		docParser = new DocumentParser(stemmerOn);
 		dictionary = new TreeSet<String>();
 		documentFrequencies = new TreeMap<String, DocumentFrequency>();
-		documents = fileParser.extractDocuments(CACM_FILE);
+		try {
+			documents = fileParser.extractDocuments(CACM_FILE);
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
 		this.stopwordsOn = stopwordsOn;
 		if (stopwordsOn) {
 			stopWords = createStopWords(STOPWORD_FILE);

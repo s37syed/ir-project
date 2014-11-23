@@ -1,3 +1,4 @@
+import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -10,6 +11,8 @@ public class Document {
 	private String title;
 	private String content;
 	private String author;
+	private Date publicationDate;
+	private Set<Integer> citations;
 	private Map<String, Integer> termFrequencies;
 	private Map<String, Double> tfidfWeights;
 
@@ -103,6 +106,26 @@ public class Document {
 			tfidfWeights = new HashMap<String,Double>();
 		}
 		tfidfWeights.put(term, weight);
+	}
+	
+	public void setPublicationDate(Date d) {
+		publicationDate = d;
+	}
+	
+	public Date getPublicationDate() {
+		return publicationDate;
+	}
+	
+	public void setCitationSet(Set<Integer> s) {
+		citations = s;
+	}
+	
+	public Set getCitations() {
+		return citations;
+	}
+	
+	public void addCitation(int citation) {
+		citations.add(citation);
 	}
 	
 }

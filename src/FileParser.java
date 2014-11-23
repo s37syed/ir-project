@@ -3,6 +3,8 @@
 
 //This class parses a file to convert into documents
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.*;
 import java.io.*;
 
@@ -18,12 +20,14 @@ public class FileParser {
 	private final String C = ".C";
 	private final String N = ".N";
 	private final String SPLIT = "\\s+";
+	private final String DATE_FORMAT = "M, y";
 
 	public FileParser() {
 	}
 
-	public Map<Integer, Document> extractDocuments(String fileName) {
+	public Map<Integer, Document> extractDocuments(String fileName) throws ParseException {
 		Map<Integer, Document> documents = new TreeMap<Integer, Document>();
+		SimpleDateFormat sdf = new SimpleDateFormat(DATE_FORMAT);
 		try {
 			File file = new File(fileName);		
 			BufferedReader reader = new BufferedReader(new FileReader(file));
@@ -47,6 +51,32 @@ public class FileParser {
 					}
 					Document doc = documents.get(currentID);
 					doc.setTitle(builder.toString().trim());
+				}	
+				else if (line.startsWith(ABSTRACT)) {
+					line = reader.readLine();
+					StringBuilder builder = new StringBuilder();
+					while (line != null && !(line.startsWith(DOC_ID) || line.startsWith(TITLE) || line.startsWith(ABSTRACT) ||
+							line.startsWith(PUBLICATION_DATE) || line.startsWith(AUTHOR) || 
+							line.startsWith(CITATION) || line.startsWith(N) || line.startsWith(C) || line.startsWith(K))) {
+						builder.append(line + "\n");
+						line = reader.readLine();
+					}
+					Document doc = documents.get(currentID);
+					doc.setAbstract(builder.toString());
+				}	
+				else if (line.startsWith(PUBLICATION_DATE)) {
+					line = reader.readLine();
+					StringBuilder builder = new StringBuilder();
+					while (line != null && !(line.startsWith(DOC_ID) || line.startsWith(TITLE) || line.startsWith(ABSTRACT) ||
+							line.startsWith(PUBLICATION_DATE) || line.startsWith(AUTHOR) || 
+							line.startsWith(CITATION) || line.startsWith(N) || line.startsWith(C) || line.startsWith(K))) {
+						builder.append(line + "\n");
+						line = reader.readLine();
+					}
+					Document doc = documents.get(currentID);
+					String dateString = builder.toString().substring(4);
+					Date d = sdf.parse(dateString);
+					doc.setPublicationDate(d);
 				}
 				else if (line.startsWith(AUTHOR)) {
 					line = reader.readLine();
@@ -59,19 +89,7 @@ public class FileParser {
 					}
 					Document doc = documents.get(currentID);
 					doc.setAuthor(builder.toString().trim());
-				}
-				else if (line.startsWith(ABSTRACT)) {
-					line = reader.readLine();
-					StringBuilder builder = new StringBuilder();
-					while (line != null && !(line.startsWith(DOC_ID) || line.startsWith(TITLE) || line.startsWith(ABSTRACT) ||
-							line.startsWith(PUBLICATION_DATE) || line.startsWith(AUTHOR) || 
-							line.startsWith(CITATION) || line.startsWith(N) || line.startsWith(C) || line.startsWith(K))) {
-						builder.append(line + "\n");
-						line = reader.readLine();
-					}
-					Document doc = documents.get(currentID);
-					doc.setAbstract(builder.toString());
-				}				
+				}							
 				else {
 					line = reader.readLine();
 				}
