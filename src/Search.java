@@ -112,8 +112,21 @@ public class Search {
 				if (citationSet != null || citationSet.isEmpty()) {
 					if (citationSet.contains(i+1)) {
 						Document doc2 = documents.get(i+1);
-						if (doc2.getPublicationDate().before(doc.getPublicationDate())) {
+						if (doc.equals(doc2)) {
 							p[docID-1][i] = probability;
+						}
+						else {
+							Date d1 = doc.getPublicationDate();
+							Date d2 = doc2.getPublicationDate();
+							if (d1 != null && d2 != null) {
+								/*if (doc2.getPublicationDate().before(doc.getPublicationDate())) {
+									p[docID-1][i] = probability;
+								}*/
+								p[docID-1][i] = probability;
+							}
+							else {
+								System.out.println("Date is null");
+							}
 						}
 					}
 					else {

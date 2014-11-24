@@ -72,22 +72,34 @@ public class FileParser {
 						line = reader.readLine();
 					}
 					Document doc = documents.get(currentID);
-					String dateString = builder.toString().substring(5);
-					if (dateString.matches("\\S+,\\s+\\d+")) {
-						SimpleDateFormat sdf = new SimpleDateFormat("MMMM, y");
+					String dateString = builder.toString().substring(5).trim();
+					dateString = dateString.replaceAll(" ", "");
+					dateString = dateString.replaceAll(",", "");
+					try {
+						SimpleDateFormat sdf = new SimpleDateFormat("MMMMy");
 						Date d = sdf.parse(dateString);
 						doc.setPublicationDate(d);
 					}
-					else if (dateString.matches("\\S+,\\d+")) {
+					catch (ParseException e) {
+						SimpleDateFormat sdf = new SimpleDateFormat("y");
+						Date d = sdf.parse(dateString);
+						doc.setPublicationDate(d);
+					}
+					/*else if (dateString.matches("\\w+,\\d+")) {
+						System.out.println("Date format is valid: " + dateString);
 						SimpleDateFormat sdf = new SimpleDateFormat("MMMM,y");
 						Date d = sdf.parse(dateString);
 						doc.setPublicationDate(d);
 					}
-					else if (dateString.matches("\\S+\\s+\\d+")) {
+					else if (dateString.matches("\\w+\\s+\\d+")) {
+						System.out.println("Date format is valid: " + dateString);
 						SimpleDateFormat sdf = new SimpleDateFormat("MMMM y");
 						Date d = sdf.parse(dateString);
 						doc.setPublicationDate(d);
 					}
+					else {
+						System.out.println("Date format is invalid: " + dateString);
+					}*/
 				}
 				else if (line.startsWith(AUTHOR)) {
 					line = reader.readLine();
@@ -129,13 +141,13 @@ public class FileParser {
 
 		return documents;
 	}
-	
+
 	public int parseID(String line) {
 		String[] split = line.split(SPLIT);
 		String id = split[1];
 		return Integer.parseInt(id);
 	}
-	
+
 	public int parseCitation(String line) {
 		String[] split = line.split(SPLIT);
 		if (split[1].equals("5")) {
