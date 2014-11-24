@@ -15,6 +15,7 @@ public class Document {
 	private Set<Integer> citations;
 	private Map<String, Integer> termFrequencies;
 	private Map<String, Double> tfidfWeights;
+	private double pageRank;
 
 	public Document()
 	{
@@ -120,7 +121,7 @@ public class Document {
 		citations = s;
 	}
 	
-	public Set getCitations() {
+	public Set<Integer> getCitations() {
 		return citations;
 	}
 	
@@ -128,4 +129,11 @@ public class Document {
 		citations.add(citation);
 	}
 	
+	public void setPageRank(double rank){
+		pageRank = rank;
+	}
+	
+	public double getPageRank() {
+		return pageRank;
+	}
 }

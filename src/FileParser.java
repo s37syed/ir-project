@@ -20,14 +20,12 @@ public class FileParser {
 	private final String C = ".C";
 	private final String N = ".N";
 	private final String SPLIT = "\\s+";
-	private final String DATE_FORMAT = "MMMM, y";
 
 	public FileParser() {
 	}
 
 	public Map<Integer, Document> extractDocuments(String fileName) throws ParseException {
 		Map<Integer, Document> documents = new TreeMap<Integer, Document>();
-		SimpleDateFormat sdf = new SimpleDateFormat(DATE_FORMAT);
 		try {
 			File file = new File(fileName);		
 			BufferedReader reader = new BufferedReader(new FileReader(file));
@@ -75,8 +73,21 @@ public class FileParser {
 					}
 					Document doc = documents.get(currentID);
 					String dateString = builder.toString().substring(5);
-					Date d = sdf.parse(dateString);
-					doc.setPublicationDate(d);
+					if (dateString.matches("\\S+,\\s+\\d+")) {
+						SimpleDateFormat sdf = new SimpleDateFormat("MMMM, y");
+						Date d = sdf.parse(dateString);
+						doc.setPublicationDate(d);
+					}
+					else if (dateString.matches("\\S+,\\d+")) {
+						SimpleDateFormat sdf = new SimpleDateFormat("MMMM,y");
+						Date d = sdf.parse(dateString);
+						doc.setPublicationDate(d);
+					}
+					else if (dateString.matches("\\S+\\s+\\d+")) {
+						SimpleDateFormat sdf = new SimpleDateFormat("MMMM y");
+						Date d = sdf.parse(dateString);
+						doc.setPublicationDate(d);
+					}
 				}
 				else if (line.startsWith(AUTHOR)) {
 					line = reader.readLine();
