@@ -111,7 +111,10 @@ public class Search {
 			for (int i = 0; i < n; i++) {
 				if (citationSet != null || citationSet.isEmpty()) {
 					if (citationSet.contains(i+1)) {
-						p[docID-1][i] = probability;
+						Document doc2 = documents.get(i+1);
+						if (doc2.getPublicationDate().before(doc.getPublicationDate())) {
+							p[docID-1][i] = probability;
+						}
 					}
 					else {
 						p[docID-1][i] = ALPHA/n;
