@@ -20,7 +20,7 @@ public class FileParser {
 	private final String C = ".C";
 	private final String N = ".N";
 	private final String SPLIT = "\\s+";
-	private final String DATE_FORMAT = "M, y";
+	private final String DATE_FORMAT = "MMMM, y";
 
 	public FileParser() {
 	}
@@ -74,7 +74,7 @@ public class FileParser {
 						line = reader.readLine();
 					}
 					Document doc = documents.get(currentID);
-					String dateString = builder.toString().substring(4);
+					String dateString = builder.toString().substring(5);
 					Date d = sdf.parse(dateString);
 					doc.setPublicationDate(d);
 				}
@@ -89,7 +89,22 @@ public class FileParser {
 					}
 					Document doc = documents.get(currentID);
 					doc.setAuthor(builder.toString().trim());
-				}							
+				}	
+				else if (line.startsWith(CITATION)) {
+					Document doc = documents.get(currentID);
+					Set<Integer> citationSet = new TreeSet<Integer>();
+					line = reader.readLine();					
+					while (line != null && !(line.startsWith(DOC_ID) || line.startsWith(TITLE) || line.startsWith(ABSTRACT) ||
+							line.startsWith(PUBLICATION_DATE) || line.startsWith(AUTHOR) || 
+							line.startsWith(CITATION) || line.startsWith(N) || line.startsWith(C) || line.startsWith(K))) {
+						int citation = parseCitation(line);
+						if (citation != -1) {
+							citationSet.add(citation);
+						}
+						line = reader.readLine();
+					}
+					doc.setCitationSet(citationSet);
+				}
 				else {
 					line = reader.readLine();
 				}
@@ -108,5 +123,15 @@ public class FileParser {
 		String[] split = line.split(SPLIT);
 		String id = split[1];
 		return Integer.parseInt(id);
+	}
+	
+	public int parseCitation(String line) {
+		String[] split = line.split(SPLIT);
+		if (split[1].equals("5")) {
+			return Integer.parseInt(split[0]);
+		}
+		else {
+			return -1;
+		}
 	}
 }
