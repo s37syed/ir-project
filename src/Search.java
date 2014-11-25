@@ -119,9 +119,9 @@ public class Search {
 							Date d1 = doc.getPublicationDate();
 							Date d2 = doc2.getPublicationDate();
 							if (d1 != null && d2 != null) {
-								/*if (doc2.getPublicationDate().before(doc.getPublicationDate())) {
+								if (doc2.getPublicationDate().before(doc.getPublicationDate())) {
 									p[docID-1][i] = probability;
-								}*/
+								}
 								p[docID-1][i] = probability;
 							}
 							else {
