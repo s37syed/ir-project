@@ -8,7 +8,6 @@ import java.util.*;
 
 public class Eval {
 
-	private static String ZZEND = "ZZEND";
 	private static String QUERY_FILE = "query.text";
 	private static String QRELS = "qrels.text";
 
@@ -98,6 +97,29 @@ public class Eval {
 			return 0;
 		}
 	}
+
+	public static Map<Integer, Set<Integer>> parseQRels(String fileName) throws IOException,FileNotFoundException {
+		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName)));
+
+		Map<Integer, Set<Integer>> qrelsList = new TreeMap<Integer, Set<Integer>>();
+		for (String line = reader.readLine(); line != null; line = reader.readLine()) {
+			if ((line = line.trim()).isEmpty()) {
+				continue;
+			}
+			String[] tokens = line.split("\\s+");
+			int queryNum = Integer.parseInt(tokens[0]);
+			int docs = Integer.parseInt(tokens[1]);
+
+			Set<Integer> relevantDocs = qrelsList.get(queryNum);
+			if (relevantDocs == null) {
+				relevantDocs = new HashSet<Integer>();
+			}
+			relevantDocs.add(docs);
+			qrelsList.put(queryNum, relevantDocs);
+		}
+		reader.close();
+		return qrelsList;
+	}
 	
 	public static void calculatePageRank() {
 		Set<Integer> documentSet = documents.keySet();
@@ -170,28 +192,6 @@ public class Eval {
 	public static double score(Document doc, Document query) {
 		return w1 * sim(doc,query) + w2 * doc.getPageRank();
 	}
-	public static Map<Integer, Set<Integer>> parseQRels(String fileName) throws IOException,FileNotFoundException {
-		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName)));
-
-		Map<Integer, Set<Integer>> qrelsList = new TreeMap<Integer, Set<Integer>>();
-		for (String line = reader.readLine(); line != null; line = reader.readLine()) {
-			if ((line = line.trim()).isEmpty()) {
-				continue;
-			}
-			String[] tokens = line.split("\\s+");
-			int queryNum = Integer.parseInt(tokens[0]);
-			int docs = Integer.parseInt(tokens[1]);
-
-			Set<Integer> relevantDocs = qrelsList.get(queryNum);
-			if (relevantDocs == null) {
-				relevantDocs = new HashSet<Integer>();
-			}
-			relevantDocs.add(docs);
-			qrelsList.put(queryNum, relevantDocs);
-		}
-		reader.close();
-		return qrelsList;
-	}
 
 	public static void main(String[] args) throws Exception {		
 		Scanner user = new Scanner(System.in);
@@ -222,11 +222,8 @@ public class Eval {
 			stemmerOn = false;
 		}
 
-
 		System.out.println("Creating tf-idf vectors and calculating PageRanks, please wait...");
 
-		
-		
 		//parsing query.text
 		BufferedReader reader = new BufferedReader(new FileReader(new File(QUERY_FILE)));
 		LinkedList<EvalQuery> queries = new LinkedList<EvalQuery>();
@@ -279,45 +276,42 @@ public class Eval {
 
 		long totalTime = System.currentTimeMillis() - startTime;
 
-		System.out.println("Total time to create tf-idf vectors and calculate PageRanks: " + totalTime + "ms"); 
-
+		System.out.println("Total time to create tf-idf vectors and calculate PageRanks: " + totalTime + "ms");
 		
-//		System.out.print("\nCreating MAP and R-Precision Values\n");
-		System.out.print("\nCreating PageRank scores\n");
-			System.out.println("Please enter values for w1 and w2, where w1 + w2 = 1");
+		System.out.println("Please enter values for w1 and w2, where w1 + w2 = 1");
+		System.out.print("w1: ");
+		w1 = Double.parseDouble(user.nextLine());
+		System.out.print("w2: ");
+		w2 = Double.parseDouble(user.nextLine());
+		while (w1 + w2 != 1) {
+			System.out.println("You have entered invalid w1 and w2 values, please re-enter: ");
 			System.out.print("w1: ");
 			w1 = Double.parseDouble(user.nextLine());
 			System.out.print("w2: ");
 			w2 = Double.parseDouble(user.nextLine());
-			while (w1 + w2 != 1) {
-				System.out.println("You have entered invalid w1 and w2 values, please re-enter: ");
-				System.out.print("w1: ");
-				w1 = Double.parseDouble(user.nextLine());
-				System.out.print("w2: ");
-				w2 = Double.parseDouble(user.nextLine());
-			}
-//		Set<Double> mapSet = new HashSet<Double>();
-//		Set<Double> rPrecisionSet = new HashSet<Double>();
+		}
+
+		System.out.print("\nCreating MAP and R-Precision Values\n");
+		Set<Double> mapSet = new HashSet<Double>();
+		Set<Double> rPrecisionSet = new HashSet<Double>();
 
 		long queryStart = System.currentTimeMillis();
-//		double averageRPrecision = 0;
-//		double averageMAPValue = 0;
+		double averageRPrecision = 0;
+		double averageMAPValue = 0;
 		for (Integer queryNum : relevantDocs.keySet()) {
 			Set<RelevanceScore> relevanceScores = new TreeSet<RelevanceScore>(Collections.reverseOrder());
 			String currentQuery = queries.get(queryNum-1).getQuery();
 			for (Integer docID : documents.keySet()) {
-				RelevanceScore rs = new RelevanceScore(docID, score(documents.get(docID),queryVector(input)));	
+				RelevanceScore rs = new RelevanceScore(docID, score(documents.get(docID),queryVector(currentQuery)));	
 				if (rs.getScore() > 0) {
 					relevanceScores.add(rs);
 				}
 			}
-
 			Set<Integer> relDocs = relevantDocs.get(queryNum);
 			int r = relDocs.size();
 			double j = 1;
 			double relevantDocNum = 0;
-			double pageRankScore = 0;
-			//double mapValue = 0;
+			double mapValue = 0;
 			if (!relevanceScores.isEmpty()) {
 				for (RelevanceScore rs : relevanceScores) {
 					if (j > topK) {
@@ -327,33 +321,29 @@ public class Eval {
 					if (relDocs.contains(docID)) {
 						if (j <= r) {
 							relevantDocNum++;
-							pageRankScore = rs.getScore();
 						}
-						//mapValue += relevantDocNum / j;
+						mapValue += relevantDocNum / j;
 					}
 					j += 1;
 				}
-//				double rPrecision = relevantDocNum / r;
-//				rPrecisionSet.add(rPrecision);
-//				averageRPrecision += rPrecision;
-				System.out.println("\nCurrent Query: " + currentQuery);
-				System.out.println("\nQuery # " + queryNum + "\n\tRelevant documents retrieved: " + relevantDocNum +
+				double rPrecision = relevantDocNum / r;
+				rPrecisionSet.add(rPrecision);
+				averageRPrecision += rPrecision;
+				System.out.println("\nQuery " + queryNum + "\n\tRelevant documents retrieved: " + relevantDocNum +
 						" / Total relevant documents in query: " + r);
-				System.out.println("\tPageRank score = " + pageRankScore);
-//				System.out.println("\tR-Precision = " + rPrecision);
-				//double totalMAP = mapValue / r;
-				//mapSet.add(totalMAP);
-				//averageMAPValue += totalMAP;
-				//System.out.println("\tMAP Value = " + totalMAP);
-
+				System.out.println("\tR-Precision = " + rPrecision);
+				double totalMAP = mapValue / r;
+				mapSet.add(totalMAP);
+				averageMAPValue += totalMAP;
+				System.out.println("\tMAP Value = " + totalMAP);
 			}
 			else {
 				System.out.println("No match for query " + queryNum + ": " + currentQuery);
 			}
 		}
 		user.close();
-		//System.out.println("Average R-Precision over " + queries.size() + " queries = " + (averageRPrecision/rPrecisionSet.size()));
-		//System.out.println("Average MAP Value over "+ queries.size() + " queries = " + (averageMAPValue/mapSet.size()));
+		System.out.println("Average R-Precision over " + queries.size() + " queries = " + (averageRPrecision/rPrecisionSet.size()));
+		System.out.println("Average MAP Value over "+ queries.size() + " queries = " + (averageMAPValue/mapSet.size()));
 		long queryEnd = System.currentTimeMillis() - queryStart;
 		System.out.println("\nTime required to create MAP and R-Precision values: " + (queryEnd) + " ms");
 	}
