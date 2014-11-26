@@ -1,0 +1,6408 @@
+Document ID: 1
+	PageRank Score: 6.864437583665951E-4
+Document ID: 2
+	PageRank Score: 3.097282273424647E-4
+Document ID: 3
+	PageRank Score: 3.097282273424647E-4
+Document ID: 4
+	PageRank Score: 3.097282273424647E-4
+Document ID: 5
+	PageRank Score: 3.097282273424647E-4
+Document ID: 6
+	PageRank Score: 3.097282273424666E-4
+Document ID: 7
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 8
+	PageRank Score: 3.097282273424647E-4
+Document ID: 9
+	PageRank Score: 3.097282273424647E-4
+Document ID: 10
+	PageRank Score: 3.097282273424647E-4
+Document ID: 11
+	PageRank Score: 2.069038464435027E-4
+Document ID: 12
+	PageRank Score: 3.097282273424647E-4
+Document ID: 13
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 14
+	PageRank Score: 3.130041929042179E-4
+Document ID: 15
+	PageRank Score: 2.7133949989948135E-4
+Document ID: 16
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 17
+	PageRank Score: 2.498094783779199E-4
+Document ID: 18
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 19
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 20
+	PageRank Score: 3.097282273424648E-4
+Document ID: 21
+	PageRank Score: 1.9283651363748212E-4
+Document ID: 22
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 23
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 24
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 25
+	PageRank Score: 3.097282273424646E-4
+Document ID: 26
+	PageRank Score: 2.7133949989948167E-4
+Document ID: 27
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 28
+	PageRank Score: 3.097282273424646E-4
+Document ID: 29
+	PageRank Score: 3.097282273424646E-4
+Document ID: 30
+	PageRank Score: 3.097282273424647E-4
+Document ID: 31
+	PageRank Score: 3.097282273424647E-4
+Document ID: 32
+	PageRank Score: 3.097282273424647E-4
+Document ID: 33
+	PageRank Score: 3.097282273424647E-4
+Document ID: 34
+	PageRank Score: 3.097282273424647E-4
+Document ID: 35
+	PageRank Score: 2.713394998994816E-4
+Document ID: 36
+	PageRank Score: 3.097282273424646E-4
+Document ID: 37
+	PageRank Score: 3.097282273424646E-4
+Document ID: 38
+	PageRank Score: 3.097282273424647E-4
+Document ID: 39
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 40
+	PageRank Score: 3.097282273424646E-4
+Document ID: 41
+	PageRank Score: 2.7133949989948135E-4
+Document ID: 42
+	PageRank Score: 3.097282273424646E-4
+Document ID: 43
+	PageRank Score: 1.7449628741345884E-4
+Document ID: 44
+	PageRank Score: 2.759774908991141E-4
+Document ID: 45
+	PageRank Score: 2.0960485236518414E-4
+Document ID: 46
+	PageRank Score: 2.2834147085293072E-4
+Document ID: 47
+	PageRank Score: 3.097282273424647E-4
+Document ID: 48
+	PageRank Score: 3.097282273424647E-4
+Document ID: 49
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 50
+	PageRank Score: 3.097282273424648E-4
+Document ID: 51
+	PageRank Score: 1.7020648232203667E-4
+Document ID: 52
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 53
+	PageRank Score: 2.1342980948199481E-4
+Document ID: 54
+	PageRank Score: 2.1654210553741788E-4
+Document ID: 55
+	PageRank Score: 1.7903920314408996E-4
+Document ID: 56
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 57
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 58
+	PageRank Score: 3.097282273424652E-4
+Document ID: 59
+	PageRank Score: 3.097282273424646E-4
+Document ID: 60
+	PageRank Score: 3.097282273424647E-4
+Document ID: 61
+	PageRank Score: 3.097282273424647E-4
+Document ID: 62
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 63
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 64
+	PageRank Score: 2.7709291716279915E-4
+Document ID: 65
+	PageRank Score: 3.097282273424648E-4
+Document ID: 66
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 67
+	PageRank Score: 3.8650568222845405E-4
+Document ID: 68
+	PageRank Score: 1.846838966617391E-4
+Document ID: 69
+	PageRank Score: 3.097282273424648E-4
+Document ID: 70
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 71
+	PageRank Score: 3.097282273424648E-4
+Document ID: 72
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 73
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 74
+	PageRank Score: 3.1291723893854664E-4
+Document ID: 75
+	PageRank Score: 3.865056822284539E-4
+Document ID: 76
+	PageRank Score: 3.097282273424649E-4
+Document ID: 77
+	PageRank Score: 4.6438237976313603E-4
+Document ID: 78
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 79
+	PageRank Score: 2.713394998994812E-4
+Document ID: 80
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 81
+	PageRank Score: 3.097282273424648E-4
+Document ID: 82
+	PageRank Score: 2.2144845303096911E-4
+Document ID: 83
+	PageRank Score: 2.7557585022254234E-4
+Document ID: 84
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 85
+	PageRank Score: 2.5869127610328294E-4
+Document ID: 86
+	PageRank Score: 3.097282273424646E-4
+Document ID: 87
+	PageRank Score: 3.040656151089974E-4
+Document ID: 88
+	PageRank Score: 3.040656151089974E-4
+Document ID: 89
+	PageRank Score: 3.097282273424645E-4
+Document ID: 90
+	PageRank Score: 1.986468318073688E-4
+Document ID: 91
+	PageRank Score: 2.676374787974445E-4
+Document ID: 92
+	PageRank Score: 3.097282273424645E-4
+Document ID: 93
+	PageRank Score: 2.7241991815760255E-4
+Document ID: 94
+	PageRank Score: 2.713394998994811E-4
+Document ID: 95
+	PageRank Score: 3.097282273424645E-4
+Document ID: 96
+	PageRank Score: 3.097282273424645E-4
+Document ID: 97
+	PageRank Score: 3.097282273424645E-4
+Document ID: 98
+	PageRank Score: 2.0352595578816845E-4
+Document ID: 99
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 100
+	PageRank Score: 2.1538423477820778E-4
+Document ID: 101
+	PageRank Score: 3.097282273424644E-4
+Document ID: 102
+	PageRank Score: 3.097282273424644E-4
+Document ID: 103
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 104
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 105
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 106
+	PageRank Score: 4.1792596535562983E-4
+Document ID: 107
+	PageRank Score: 4.6264040734351206E-4
+Document ID: 108
+	PageRank Score: 3.097282273424655E-4
+Document ID: 109
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 110
+	PageRank Score: 3.097282273424644E-4
+Document ID: 111
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 112
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 113
+	PageRank Score: 3.097282273424643E-4
+Document ID: 114
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 115
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 116
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 117
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 118
+	PageRank Score: 3.097282273424643E-4
+Document ID: 119
+	PageRank Score: 3.097282273424643E-4
+Document ID: 120
+	PageRank Score: 3.097282273424645E-4
+Document ID: 121
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 122
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 123
+	PageRank Score: 3.842846301197961E-4
+Document ID: 124
+	PageRank Score: 3.097282273424638E-4
+Document ID: 125
+	PageRank Score: 3.0972822734247547E-4
+Document ID: 126
+	PageRank Score: 3.097282273424642E-4
+Document ID: 127
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 128
+	PageRank Score: 3.097282273424642E-4
+Document ID: 129
+	PageRank Score: 3.097282273424642E-4
+Document ID: 130
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 131
+	PageRank Score: 3.097282273424642E-4
+Document ID: 132
+	PageRank Score: 3.097282273424643E-4
+Document ID: 133
+	PageRank Score: 3.097282273424642E-4
+Document ID: 134
+	PageRank Score: 2.323015395325309E-4
+Document ID: 135
+	PageRank Score: 3.097282273424642E-4
+Document ID: 136
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 137
+	PageRank Score: 3.097282273424642E-4
+Document ID: 138
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 139
+	PageRank Score: 3.097282273424642E-4
+Document ID: 140
+	PageRank Score: 2.3673721386177933E-4
+Document ID: 141
+	PageRank Score: 3.097282273424641E-4
+Document ID: 142
+	PageRank Score: 4.943053932975729E-4
+Document ID: 143
+	PageRank Score: 3.097282273424642E-4
+Document ID: 144
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 145
+	PageRank Score: 2.510788506648353E-4
+Document ID: 146
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 147
+	PageRank Score: 3.097282273424642E-4
+Document ID: 148
+	PageRank Score: 3.097282273424642E-4
+Document ID: 149
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 150
+	PageRank Score: 3.097282273424642E-4
+Document ID: 151
+	PageRank Score: 3.097282273424642E-4
+Document ID: 152
+	PageRank Score: 3.5304847386524995E-4
+Document ID: 153
+	PageRank Score: 3.0972822734246674E-4
+Document ID: 154
+	PageRank Score: 3.097282273424642E-4
+Document ID: 155
+	PageRank Score: 2.9048282233082166E-4
+Document ID: 156
+	PageRank Score: 3.097282273424642E-4
+Document ID: 157
+	PageRank Score: 3.097282273424642E-4
+Document ID: 158
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 159
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 160
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 161
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 162
+	PageRank Score: 2.606855752628083E-4
+Document ID: 163
+	PageRank Score: 2.606855752628083E-4
+Document ID: 164
+	PageRank Score: 1.760237254260764E-4
+Document ID: 165
+	PageRank Score: 2.3856259498805508E-4
+Document ID: 166
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 167
+	PageRank Score: 3.097282273424642E-4
+Document ID: 168
+	PageRank Score: 3.4295085259901544E-4
+Document ID: 169
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 170
+	PageRank Score: 3.097282273424642E-4
+Document ID: 171
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 172
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 173
+	PageRank Score: 3.097282273424643E-4
+Document ID: 174
+	PageRank Score: 3.097282273424643E-4
+Document ID: 175
+	PageRank Score: 3.097282273424645E-4
+Document ID: 176
+	PageRank Score: 3.097282273424642E-4
+Document ID: 177
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 178
+	PageRank Score: 2.5550488775451675E-4
+Document ID: 179
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 180
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 181
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 182
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 183
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 184
+	PageRank Score: 3.097282273424643E-4
+Document ID: 185
+	PageRank Score: 2.791956346054634E-4
+Document ID: 186
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 187
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 188
+	PageRank Score: 3.097282273424642E-4
+Document ID: 189
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 190
+	PageRank Score: 3.097282273424642E-4
+Document ID: 191
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 192
+	PageRank Score: 2.606855752628083E-4
+Document ID: 193
+	PageRank Score: 3.097282273424642E-4
+Document ID: 194
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 195
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 196
+	PageRank Score: 0.0022789005790692057
+Document ID: 197
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 198
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 199
+	PageRank Score: 3.097282273424643E-4
+Document ID: 200
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 201
+	PageRank Score: 3.097282273424643E-4
+Document ID: 202
+	PageRank Score: 1.9344092522831214E-4
+Document ID: 203
+	PageRank Score: 2.1549952528490468E-4
+Document ID: 204
+	PageRank Score: 3.0972822734248343E-4
+Document ID: 205
+	PageRank Score: 4.3333677077387917E-4
+Document ID: 206
+	PageRank Score: 2.6552791395076093E-4
+Document ID: 207
+	PageRank Score: 2.6552791395076093E-4
+Document ID: 208
+	PageRank Score: 1.6097244900076105E-4
+Document ID: 209
+	PageRank Score: 4.371823368788978E-4
+Document ID: 210
+	PageRank Score: 0.0013730206255330101
+Document ID: 211
+	PageRank Score: 3.097282273424643E-4
+Document ID: 212
+	PageRank Score: 3.097282273424643E-4
+Document ID: 213
+	PageRank Score: 3.097282273424643E-4
+Document ID: 214
+	PageRank Score: 3.442403097514578E-4
+Document ID: 215
+	PageRank Score: 3.097282273424652E-4
+Document ID: 216
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 217
+	PageRank Score: 2.8639903828620917E-4
+Document ID: 218
+	PageRank Score: 3.097282273424642E-4
+Document ID: 219
+	PageRank Score: 3.097282273424642E-4
+Document ID: 220
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 221
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 222
+	PageRank Score: 2.3608113457665445E-4
+Document ID: 223
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 224
+	PageRank Score: 7.964093336140773E-4
+Document ID: 225
+	PageRank Score: 3.097282273424643E-4
+Document ID: 226
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 227
+	PageRank Score: 3.097282273424642E-4
+Document ID: 228
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 229
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 230
+	PageRank Score: 3.097282273424644E-4
+Document ID: 231
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 232
+	PageRank Score: 2.162865833931289E-4
+Document ID: 233
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 234
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 235
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 236
+	PageRank Score: 2.1997164995943272E-4
+Document ID: 237
+	PageRank Score: 3.097282273424643E-4
+Document ID: 238
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 239
+	PageRank Score: 3.097282273424643E-4
+Document ID: 240
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 241
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 242
+	PageRank Score: 3.097282273424642E-4
+Document ID: 243
+	PageRank Score: 3.097282273424642E-4
+Document ID: 244
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 245
+	PageRank Score: 2.3863720528908403E-4
+Document ID: 246
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 247
+	PageRank Score: 3.097282273424641E-4
+Document ID: 248
+	PageRank Score: 3.097282273424642E-4
+Document ID: 249
+	PageRank Score: 4.7590055634740794E-4
+Document ID: 250
+	PageRank Score: 2.6404721996699357E-4
+Document ID: 251
+	PageRank Score: 3.097282273424641E-4
+Document ID: 252
+	PageRank Score: 3.097282273424641E-4
+Document ID: 253
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 254
+	PageRank Score: 3.406576053243657E-4
+Document ID: 255
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 256
+	PageRank Score: 3.097282273424641E-4
+Document ID: 257
+	PageRank Score: 3.097282273424641E-4
+Document ID: 258
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 259
+	PageRank Score: 3.097282273424641E-4
+Document ID: 260
+	PageRank Score: 3.097282273424641E-4
+Document ID: 261
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 262
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 263
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 264
+	PageRank Score: 1.858808561246492E-4
+Document ID: 265
+	PageRank Score: 2.173945354304794E-4
+Document ID: 266
+	PageRank Score: 3.097282273424641E-4
+Document ID: 267
+	PageRank Score: 1.9298465050745703E-4
+Document ID: 268
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 269
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 270
+	PageRank Score: 2.0077448855572E-4
+Document ID: 271
+	PageRank Score: 3.007590596760623E-4
+Document ID: 272
+	PageRank Score: 1.6454277453495622E-4
+Document ID: 273
+	PageRank Score: 2.2175768008981587E-4
+Document ID: 274
+	PageRank Score: 2.8135236748087327E-4
+Document ID: 275
+	PageRank Score: 3.097282273424641E-4
+Document ID: 276
+	PageRank Score: 2.2206465937150998E-4
+Document ID: 277
+	PageRank Score: 3.097282273424641E-4
+Document ID: 278
+	PageRank Score: 3.097282273424641E-4
+Document ID: 279
+	PageRank Score: 2.2538293958238622E-4
+Document ID: 280
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 281
+	PageRank Score: 3.097282273424641E-4
+Document ID: 282
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 283
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 284
+	PageRank Score: 2.2370696691802192E-4
+Document ID: 285
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 286
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 287
+	PageRank Score: 3.09728227342464E-4
+Document ID: 288
+	PageRank Score: 2.4017881201890588E-4
+Document ID: 289
+	PageRank Score: 3.09728227342464E-4
+Document ID: 290
+	PageRank Score: 3.09728227342464E-4
+Document ID: 291
+	PageRank Score: 3.09728227342464E-4
+Document ID: 292
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 293
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 294
+	PageRank Score: 3.09728227342464E-4
+Document ID: 295
+	PageRank Score: 3.09728227342464E-4
+Document ID: 296
+	PageRank Score: 1.7294522067743195E-4
+Document ID: 297
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 298
+	PageRank Score: 3.09728227342464E-4
+Document ID: 299
+	PageRank Score: 3.2909491117015684E-4
+Document ID: 300
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 301
+	PageRank Score: 3.097282273424639E-4
+Document ID: 302
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 303
+	PageRank Score: 2.5822906696484975E-4
+Document ID: 304
+	PageRank Score: 3.097282273424639E-4
+Document ID: 305
+	PageRank Score: 3.097282273424639E-4
+Document ID: 306
+	PageRank Score: 3.097282273424639E-4
+Document ID: 307
+	PageRank Score: 2.625004548246378E-4
+Document ID: 308
+	PageRank Score: 5.461151444086803E-4
+Document ID: 309
+	PageRank Score: 5.187650899372125E-4
+Document ID: 310
+	PageRank Score: 2.386372052890838E-4
+Document ID: 311
+	PageRank Score: 4.132604182745121E-4
+Document ID: 312
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 313
+	PageRank Score: 3.097282273424639E-4
+Document ID: 314
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 315
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 316
+	PageRank Score: 2.1555744575600528E-4
+Document ID: 317
+	PageRank Score: 3.097282273424658E-4
+Document ID: 318
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 319
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 320
+	PageRank Score: 1.848029903645536E-4
+Document ID: 321
+	PageRank Score: 4.6013153177904486E-4
+Document ID: 322
+	PageRank Score: 3.097282273424638E-4
+Document ID: 323
+	PageRank Score: 3.6609778914560153E-4
+Document ID: 324
+	PageRank Score: 2.795988771001823E-4
+Document ID: 325
+	PageRank Score: 3.097282273424638E-4
+Document ID: 326
+	PageRank Score: 3.097282273424638E-4
+Document ID: 327
+	PageRank Score: 2.555048877545162E-4
+Document ID: 328
+	PageRank Score: 3.09728227342464E-4
+Document ID: 329
+	PageRank Score: 2.9406144862285786E-4
+Document ID: 330
+	PageRank Score: 3.09728227342464E-4
+Document ID: 331
+	PageRank Score: 3.09728227342464E-4
+Document ID: 332
+	PageRank Score: 3.2324546120943306E-4
+Document ID: 333
+	PageRank Score: 3.097282273424644E-4
+Document ID: 334
+	PageRank Score: 3.09728227342464E-4
+Document ID: 335
+	PageRank Score: 3.09728227342464E-4
+Document ID: 336
+	PageRank Score: 3.097282273424639E-4
+Document ID: 337
+	PageRank Score: 3.097282273424639E-4
+Document ID: 338
+	PageRank Score: 3.097282273424639E-4
+Document ID: 339
+	PageRank Score: 3.097282273424639E-4
+Document ID: 340
+	PageRank Score: 2.713394998994826E-4
+Document ID: 341
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 342
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 343
+	PageRank Score: 3.097282273424639E-4
+Document ID: 344
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 345
+	PageRank Score: 3.097282273424639E-4
+Document ID: 346
+	PageRank Score: 3.097282273424639E-4
+Document ID: 347
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 348
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 349
+	PageRank Score: 3.097282273424639E-4
+Document ID: 350
+	PageRank Score: 3.097282273424639E-4
+Document ID: 351
+	PageRank Score: 3.09728227342464E-4
+Document ID: 352
+	PageRank Score: 3.097282273424639E-4
+Document ID: 353
+	PageRank Score: 3.097282273424639E-4
+Document ID: 354
+	PageRank Score: 3.09728227342464E-4
+Document ID: 355
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 356
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 357
+	PageRank Score: 3.097282273424638E-4
+Document ID: 358
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 359
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 360
+	PageRank Score: 1.9165543373254111E-4
+Document ID: 361
+	PageRank Score: 3.097282273424655E-4
+Document ID: 362
+	PageRank Score: 2.0284476501782278E-4
+Document ID: 363
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 364
+	PageRank Score: 3.7371162256371335E-4
+Document ID: 365
+	PageRank Score: 3.097282273424639E-4
+Document ID: 366
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 367
+	PageRank Score: 4.004082866105915E-4
+Document ID: 368
+	PageRank Score: 3.097282273424638E-4
+Document ID: 369
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 370
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 371
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 372
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 373
+	PageRank Score: 3.097282273424638E-4
+Document ID: 374
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 375
+	PageRank Score: 3.097282273424638E-4
+Document ID: 376
+	PageRank Score: 1.6965795074296933E-4
+Document ID: 377
+	PageRank Score: 2.5151142200059966E-4
+Document ID: 378
+	PageRank Score: 4.807623969945382E-4
+Document ID: 379
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 380
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 381
+	PageRank Score: 2.73101146433703E-4
+Document ID: 382
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 383
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 384
+	PageRank Score: 3.097282273424638E-4
+Document ID: 385
+	PageRank Score: 1.7208409637682162E-4
+Document ID: 386
+	PageRank Score: 3.097282273424683E-4
+Document ID: 387
+	PageRank Score: 1.8301034133858337E-4
+Document ID: 388
+	PageRank Score: 3.097282273424638E-4
+Document ID: 389
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 390
+	PageRank Score: 3.097282273424638E-4
+Document ID: 391
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 392
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 393
+	PageRank Score: 1.7525366792957715E-4
+Document ID: 394
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 395
+	PageRank Score: 3.097282273424638E-4
+Document ID: 396
+	PageRank Score: 1.934409252283114E-4
+Document ID: 397
+	PageRank Score: 2.526799666875566E-4
+Document ID: 398
+	PageRank Score: 2.0303078974281535E-4
+Document ID: 399
+	PageRank Score: 3.19728421329233E-4
+Document ID: 400
+	PageRank Score: 2.1639669574131332E-4
+Document ID: 401
+	PageRank Score: 1.7945550703012507E-4
+Document ID: 402
+	PageRank Score: 2.163966957413133E-4
+Document ID: 403
+	PageRank Score: 3.097282273424638E-4
+Document ID: 404
+	PageRank Score: 0.001109704525319476
+Document ID: 405
+	PageRank Score: 5.235943336271093E-4
+Document ID: 406
+	PageRank Score: 2.2955408662970827E-4
+Document ID: 407
+	PageRank Score: 2.915237015265569E-4
+Document ID: 408
+	PageRank Score: 2.606478565279131E-4
+Document ID: 409
+	PageRank Score: 2.2538293958238568E-4
+Document ID: 410
+	PageRank Score: 1.9876496247452226E-4
+Document ID: 411
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 412
+	PageRank Score: 1.5920293818182977E-4
+Document ID: 413
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 414
+	PageRank Score: 3.097282273424638E-4
+Document ID: 415
+	PageRank Score: 2.1997164995943204E-4
+Document ID: 416
+	PageRank Score: 3.0972822734246766E-4
+Document ID: 417
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 418
+	PageRank Score: 3.097282273424638E-4
+Document ID: 419
+	PageRank Score: 3.097282273424638E-4
+Document ID: 420
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 421
+	PageRank Score: 2.6856974671738066E-4
+Document ID: 422
+	PageRank Score: 3.097282273424639E-4
+Document ID: 423
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 424
+	PageRank Score: 3.097282273424638E-4
+Document ID: 425
+	PageRank Score: 3.097282273424638E-4
+Document ID: 426
+	PageRank Score: 3.097282273424638E-4
+Document ID: 427
+	PageRank Score: 3.097282273424638E-4
+Document ID: 428
+	PageRank Score: 3.097282273424638E-4
+Document ID: 429
+	PageRank Score: 4.1101505594559525E-4
+Document ID: 430
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 431
+	PageRank Score: 3.097282273424639E-4
+Document ID: 432
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 433
+	PageRank Score: 3.097282273424638E-4
+Document ID: 434
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 435
+	PageRank Score: 2.8392730593114875E-4
+Document ID: 436
+	PageRank Score: 3.2437659314024783E-4
+Document ID: 437
+	PageRank Score: 3.477548910551954E-4
+Document ID: 438
+	PageRank Score: 3.992498053378203E-4
+Document ID: 439
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 440
+	PageRank Score: 2.1342580406518075E-4
+Document ID: 441
+	PageRank Score: 3.521449837415383E-4
+Document ID: 442
+	PageRank Score: 3.097282273424638E-4
+Document ID: 443
+	PageRank Score: 3.097282273424638E-4
+Document ID: 444
+	PageRank Score: 3.097282273424637E-4
+Document ID: 445
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 446
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 447
+	PageRank Score: 3.097282273424637E-4
+Document ID: 448
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 449
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 450
+	PageRank Score: 2.1970857900140307E-4
+Document ID: 451
+	PageRank Score: 3.097282273424638E-4
+Document ID: 452
+	PageRank Score: 3.097282273424638E-4
+Document ID: 453
+	PageRank Score: 3.097282273424638E-4
+Document ID: 454
+	PageRank Score: 4.472379580736372E-4
+Document ID: 455
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 456
+	PageRank Score: 2.0520558048948482E-4
+Document ID: 457
+	PageRank Score: 3.097282273424638E-4
+Document ID: 458
+	PageRank Score: 3.097282273424638E-4
+Document ID: 459
+	PageRank Score: 3.097282273424638E-4
+Document ID: 460
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 461
+	PageRank Score: 3.097282273424637E-4
+Document ID: 462
+	PageRank Score: 3.097282273424691E-4
+Document ID: 463
+	PageRank Score: 2.515275233398809E-4
+Document ID: 464
+	PageRank Score: 5.680994763845479E-4
+Document ID: 465
+	PageRank Score: 3.097282273424637E-4
+Document ID: 466
+	PageRank Score: 3.097282273424638E-4
+Document ID: 467
+	PageRank Score: 3.097282273424638E-4
+Document ID: 468
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 469
+	PageRank Score: 3.097282273424637E-4
+Document ID: 470
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 471
+	PageRank Score: 3.097282273424637E-4
+Document ID: 472
+	PageRank Score: 2.3130865425007935E-4
+Document ID: 473
+	PageRank Score: 3.097282273424638E-4
+Document ID: 474
+	PageRank Score: 2.434283883665106E-4
+Document ID: 475
+	PageRank Score: 2.555048877545147E-4
+Document ID: 476
+	PageRank Score: 3.097282273424638E-4
+Document ID: 477
+	PageRank Score: 3.097282273424666E-4
+Document ID: 478
+	PageRank Score: 3.097282273424637E-4
+Document ID: 479
+	PageRank Score: 3.541999222879632E-4
+Document ID: 480
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 481
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 482
+	PageRank Score: 3.097282273424637E-4
+Document ID: 483
+	PageRank Score: 4.5828268121069263E-4
+Document ID: 484
+	PageRank Score: 3.097282273424638E-4
+Document ID: 485
+	PageRank Score: 2.2369299297559178E-4
+Document ID: 486
+	PageRank Score: 3.097282273424638E-4
+Document ID: 487
+	PageRank Score: 3.097282273424638E-4
+Document ID: 488
+	PageRank Score: 1.8533134287780902E-4
+Document ID: 489
+	PageRank Score: 3.097282273424637E-4
+Document ID: 490
+	PageRank Score: 3.097282273424637E-4
+Document ID: 491
+	PageRank Score: 4.8013546393348134E-4
+Document ID: 492
+	PageRank Score: 2.8343770899154396E-4
+Document ID: 493
+	PageRank Score: 2.4022621801477714E-4
+Document ID: 494
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 495
+	PageRank Score: 3.097282273424636E-4
+Document ID: 496
+	PageRank Score: 2.4138920248231472E-4
+Document ID: 497
+	PageRank Score: 3.097282273424658E-4
+Document ID: 498
+	PageRank Score: 3.097282273424636E-4
+Document ID: 499
+	PageRank Score: 3.097282273424636E-4
+Document ID: 500
+	PageRank Score: 3.097282273424636E-4
+Document ID: 501
+	PageRank Score: 2.1148722402415307E-4
+Document ID: 502
+	PageRank Score: 3.097282273424636E-4
+Document ID: 503
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 504
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 505
+	PageRank Score: 3.097282273424637E-4
+Document ID: 506
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 507
+	PageRank Score: 1.710976747914195E-4
+Document ID: 508
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 509
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 510
+	PageRank Score: 3.097282273424636E-4
+Document ID: 511
+	PageRank Score: 2.274733047316965E-4
+Document ID: 512
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 513
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 514
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 515
+	PageRank Score: 3.097282273424636E-4
+Document ID: 516
+	PageRank Score: 3.097282273424636E-4
+Document ID: 517
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 518
+	PageRank Score: 1.8322442053177686E-4
+Document ID: 519
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 520
+	PageRank Score: 3.097282273424636E-4
+Document ID: 521
+	PageRank Score: 4.7611131259699113E-4
+Document ID: 522
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 523
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 524
+	PageRank Score: 2.685697467173802E-4
+Document ID: 525
+	PageRank Score: 3.097282273424635E-4
+Document ID: 526
+	PageRank Score: 3.097282273424636E-4
+Document ID: 527
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 528
+	PageRank Score: 2.3168022826461053E-4
+Document ID: 529
+	PageRank Score: 3.097282273424635E-4
+Document ID: 530
+	PageRank Score: 3.097282273424635E-4
+Document ID: 531
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 532
+	PageRank Score: 5.367507464878536E-4
+Document ID: 533
+	PageRank Score: 3.097282273424635E-4
+Document ID: 534
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 535
+	PageRank Score: 2.7133949989948314E-4
+Document ID: 536
+	PageRank Score: 3.097282273424634E-4
+Document ID: 537
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 538
+	PageRank Score: 3.097282273424634E-4
+Document ID: 539
+	PageRank Score: 3.097282273424634E-4
+Document ID: 540
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 541
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 542
+	PageRank Score: 3.097282273424634E-4
+Document ID: 543
+	PageRank Score: 3.097282273424635E-4
+Document ID: 544
+	PageRank Score: 3.097282273424634E-4
+Document ID: 545
+	PageRank Score: 3.097282273424634E-4
+Document ID: 546
+	PageRank Score: 3.097282273424634E-4
+Document ID: 547
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 548
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 549
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 550
+	PageRank Score: 3.097282273424634E-4
+Document ID: 551
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 552
+	PageRank Score: 3.097282273424634E-4
+Document ID: 553
+	PageRank Score: 3.097282273424635E-4
+Document ID: 554
+	PageRank Score: 3.097282273424635E-4
+Document ID: 555
+	PageRank Score: 3.097282273424633E-4
+Document ID: 556
+	PageRank Score: 1.7682460468652306E-4
+Document ID: 557
+	PageRank Score: 1.8725203218412372E-4
+Document ID: 558
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 559
+	PageRank Score: 3.097282273424634E-4
+Document ID: 560
+	PageRank Score: 2.217423857227012E-4
+Document ID: 561
+	PageRank Score: 5.049264464106191E-4
+Document ID: 562
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 563
+	PageRank Score: 3.097282273424633E-4
+Document ID: 564
+	PageRank Score: 3.097282273424633E-4
+Document ID: 565
+	PageRank Score: 3.097282273424634E-4
+Document ID: 566
+	PageRank Score: 3.097282273424633E-4
+Document ID: 567
+	PageRank Score: 3.097282273424633E-4
+Document ID: 568
+	PageRank Score: 3.097282273424633E-4
+Document ID: 569
+	PageRank Score: 3.097282273424634E-4
+Document ID: 570
+	PageRank Score: 1.8227283807150903E-4
+Document ID: 571
+	PageRank Score: 3.097282273424634E-4
+Document ID: 572
+	PageRank Score: 3.097282273424633E-4
+Document ID: 573
+	PageRank Score: 3.097282273424633E-4
+Document ID: 574
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 575
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 576
+	PageRank Score: 2.7467659824422153E-4
+Document ID: 577
+	PageRank Score: 1.6069397170879402E-4
+Document ID: 578
+	PageRank Score: 3.097282273424633E-4
+Document ID: 579
+	PageRank Score: 3.353278865754742E-4
+Document ID: 580
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 581
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 582
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 583
+	PageRank Score: 1.6454277453495443E-4
+Document ID: 584
+	PageRank Score: 2.810183685123268E-4
+Document ID: 585
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 586
+	PageRank Score: 2.1380652591445427E-4
+Document ID: 587
+	PageRank Score: 2.0035572550595071E-4
+Document ID: 588
+	PageRank Score: 3.097282273424631E-4
+Document ID: 589
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 590
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 591
+	PageRank Score: 3.097282273424632E-4
+Document ID: 592
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 593
+	PageRank Score: 3.097282273424631E-4
+Document ID: 594
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 595
+	PageRank Score: 3.097282273424631E-4
+Document ID: 596
+	PageRank Score: 3.097282273424631E-4
+Document ID: 597
+	PageRank Score: 3.097282273424631E-4
+Document ID: 598
+	PageRank Score: 3.097282273424631E-4
+Document ID: 599
+	PageRank Score: 3.097282273424631E-4
+Document ID: 600
+	PageRank Score: 1.593380000015769E-4
+Document ID: 601
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 602
+	PageRank Score: 3.097282273424631E-4
+Document ID: 603
+	PageRank Score: 1.95172003773803E-4
+Document ID: 604
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 605
+	PageRank Score: 3.097282273424631E-4
+Document ID: 606
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 607
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 608
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 609
+	PageRank Score: 3.09728227342463E-4
+Document ID: 610
+	PageRank Score: 3.09728227342463E-4
+Document ID: 611
+	PageRank Score: 3.09728227342463E-4
+Document ID: 612
+	PageRank Score: 1.946137181581215E-4
+Document ID: 613
+	PageRank Score: 2.1148722402415258E-4
+Document ID: 614
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 615
+	PageRank Score: 2.1814849770638502E-4
+Document ID: 616
+	PageRank Score: 5.991424193252578E-4
+Document ID: 617
+	PageRank Score: 3.097282273424631E-4
+Document ID: 618
+	PageRank Score: 3.097282273424631E-4
+Document ID: 619
+	PageRank Score: 3.6558631941104887E-4
+Document ID: 620
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 621
+	PageRank Score: 2.914903249079814E-4
+Document ID: 622
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 623
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 624
+	PageRank Score: 3.097282273424631E-4
+Document ID: 625
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 626
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 627
+	PageRank Score: 5.093643646490372E-4
+Document ID: 628
+	PageRank Score: 3.097282273424631E-4
+Document ID: 629
+	PageRank Score: 3.097282273424631E-4
+Document ID: 630
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 631
+	PageRank Score: 3.64457314074045E-4
+Document ID: 632
+	PageRank Score: 1.6454277453495416E-4
+Document ID: 633
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 634
+	PageRank Score: 3.1797902896298666E-4
+Document ID: 635
+	PageRank Score: 3.4276054196332313E-4
+Document ID: 636
+	PageRank Score: 1.9298678116888557E-4
+Document ID: 637
+	PageRank Score: 2.3856259498805508E-4
+Document ID: 638
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 639
+	PageRank Score: 3.09728227342463E-4
+Document ID: 640
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 641
+	PageRank Score: 3.09728227342463E-4
+Document ID: 642
+	PageRank Score: 3.2682914630415255E-4
+Document ID: 643
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 644
+	PageRank Score: 3.747145332766146E-4
+Document ID: 645
+	PageRank Score: 3.09728227342463E-4
+Document ID: 646
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 647
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 648
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 649
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 650
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 651
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 652
+	PageRank Score: 1.7868499789021764E-4
+Document ID: 653
+	PageRank Score: 3.238911298448332E-4
+Document ID: 654
+	PageRank Score: 3.097282273424629E-4
+Document ID: 655
+	PageRank Score: 2.2946219918465913E-4
+Document ID: 656
+	PageRank Score: 3.1011476112854957E-4
+Document ID: 657
+	PageRank Score: 3.898026043198258E-4
+Document ID: 658
+	PageRank Score: 3.097282273424629E-4
+Document ID: 659
+	PageRank Score: 1.872805379058479E-4
+Document ID: 660
+	PageRank Score: 3.097282273424629E-4
+Document ID: 661
+	PageRank Score: 3.097282273424629E-4
+Document ID: 662
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 663
+	PageRank Score: 3.097282273424629E-4
+Document ID: 664
+	PageRank Score: 3.097282273424629E-4
+Document ID: 665
+	PageRank Score: 3.097282273424629E-4
+Document ID: 666
+	PageRank Score: 2.0781415279048115E-4
+Document ID: 667
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 668
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 669
+	PageRank Score: 4.744935010767174E-4
+Document ID: 670
+	PageRank Score: 3.097282273424628E-4
+Document ID: 671
+	PageRank Score: 3.097282273424627E-4
+Document ID: 672
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 673
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 674
+	PageRank Score: 3.097282273424628E-4
+Document ID: 675
+	PageRank Score: 3.097282273424628E-4
+Document ID: 676
+	PageRank Score: 3.097282273424628E-4
+Document ID: 677
+	PageRank Score: 4.1068286379284687E-4
+Document ID: 678
+	PageRank Score: 4.0372830055942073E-4
+Document ID: 679
+	PageRank Score: 2.9984814378706057E-4
+Document ID: 680
+	PageRank Score: 6.007797159140502E-4
+Document ID: 681
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 682
+	PageRank Score: 3.097282273424629E-4
+Document ID: 683
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 684
+	PageRank Score: 3.097282273424629E-4
+Document ID: 685
+	PageRank Score: 3.097282273424628E-4
+Document ID: 686
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 687
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 688
+	PageRank Score: 3.097282273424629E-4
+Document ID: 689
+	PageRank Score: 3.805596274527405E-4
+Document ID: 690
+	PageRank Score: 4.5169131219596276E-4
+Document ID: 691
+	PageRank Score: 2.3828400582260085E-4
+Document ID: 692
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 693
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 694
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 695
+	PageRank Score: 3.097282273424628E-4
+Document ID: 696
+	PageRank Score: 3.097282273424627E-4
+Document ID: 697
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 698
+	PageRank Score: 3.097282273424665E-4
+Document ID: 699
+	PageRank Score: 2.2519095339020527E-4
+Document ID: 700
+	PageRank Score: 3.097282273424627E-4
+Document ID: 701
+	PageRank Score: 3.097282273424627E-4
+Document ID: 702
+	PageRank Score: 3.097282273424628E-4
+Document ID: 703
+	PageRank Score: 3.097282273424628E-4
+Document ID: 704
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 705
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 706
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 707
+	PageRank Score: 2.468610904903607E-4
+Document ID: 708
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 709
+	PageRank Score: 3.097282273424627E-4
+Document ID: 710
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 711
+	PageRank Score: 3.097282273424627E-4
+Document ID: 712
+	PageRank Score: 3.097282273424627E-4
+Document ID: 713
+	PageRank Score: 3.097282273424627E-4
+Document ID: 714
+	PageRank Score: 5.674287361841732E-4
+Document ID: 715
+	PageRank Score: 3.097282273424628E-4
+Document ID: 716
+	PageRank Score: 1.710976747914187E-4
+Document ID: 717
+	PageRank Score: 3.097282273424628E-4
+Document ID: 718
+	PageRank Score: 1.985068851571955E-4
+Document ID: 719
+	PageRank Score: 3.097282273424628E-4
+Document ID: 720
+	PageRank Score: 3.537006137453714E-4
+Document ID: 721
+	PageRank Score: 3.0972822734247894E-4
+Document ID: 722
+	PageRank Score: 3.097282273424628E-4
+Document ID: 723
+	PageRank Score: 3.097282273424628E-4
+Document ID: 724
+	PageRank Score: 3.097282273424628E-4
+Document ID: 725
+	PageRank Score: 3.097282273424627E-4
+Document ID: 726
+	PageRank Score: 3.097282273424627E-4
+Document ID: 727
+	PageRank Score: 3.097282273424627E-4
+Document ID: 728
+	PageRank Score: 5.211241031075775E-4
+Document ID: 729
+	PageRank Score: 4.169603691546494E-4
+Document ID: 730
+	PageRank Score: 2.3116167038331753E-4
+Document ID: 731
+	PageRank Score: 0.0010952976824307428
+Document ID: 732
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 733
+	PageRank Score: 3.097282273424629E-4
+Document ID: 734
+	PageRank Score: 3.097282273424629E-4
+Document ID: 735
+	PageRank Score: 3.097282273424627E-4
+Document ID: 736
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 737
+	PageRank Score: 3.097282273424627E-4
+Document ID: 738
+	PageRank Score: 3.097282273424628E-4
+Document ID: 739
+	PageRank Score: 3.097282273424628E-4
+Document ID: 740
+	PageRank Score: 3.097282273424628E-4
+Document ID: 741
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 742
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 743
+	PageRank Score: 3.097282273424628E-4
+Document ID: 744
+	PageRank Score: 3.097282273424628E-4
+Document ID: 745
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 746
+	PageRank Score: 3.097282273424627E-4
+Document ID: 747
+	PageRank Score: 3.0972822734247585E-4
+Document ID: 748
+	PageRank Score: 3.097282273424627E-4
+Document ID: 749
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 750
+	PageRank Score: 2.555048877545136E-4
+Document ID: 751
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 752
+	PageRank Score: 3.097282273424629E-4
+Document ID: 753
+	PageRank Score: 3.05961712377185E-4
+Document ID: 754
+	PageRank Score: 3.0972822734246674E-4
+Document ID: 755
+	PageRank Score: 2.713394998994838E-4
+Document ID: 756
+	PageRank Score: 3.097282273424629E-4
+Document ID: 757
+	PageRank Score: 3.0972822734247183E-4
+Document ID: 758
+	PageRank Score: 2.648707826911862E-4
+Document ID: 759
+	PageRank Score: 3.561008764947345E-4
+Document ID: 760
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 761
+	PageRank Score: 3.150722475979729E-4
+Document ID: 762
+	PageRank Score: 2.4678879377537E-4
+Document ID: 763
+	PageRank Score: 5.721817246663518E-4
+Document ID: 764
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 765
+	PageRank Score: 3.097282273424629E-4
+Document ID: 766
+	PageRank Score: 3.097282273424627E-4
+Document ID: 767
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 768
+	PageRank Score: 3.097282273424628E-4
+Document ID: 769
+	PageRank Score: 3.097282273424628E-4
+Document ID: 770
+	PageRank Score: 3.097282273424628E-4
+Document ID: 771
+	PageRank Score: 3.097282273424627E-4
+Document ID: 772
+	PageRank Score: 3.097282273424628E-4
+Document ID: 773
+	PageRank Score: 1.6226787836051029E-4
+Document ID: 774
+	PageRank Score: 2.1148722402415202E-4
+Document ID: 775
+	PageRank Score: 3.097282273424629E-4
+Document ID: 776
+	PageRank Score: 1.6755604020912514E-4
+Document ID: 777
+	PageRank Score: 3.097282273424629E-4
+Document ID: 778
+	PageRank Score: 2.176517547699145E-4
+Document ID: 779
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 780
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 781
+	PageRank Score: 3.097282273424629E-4
+Document ID: 782
+	PageRank Score: 3.097282273424629E-4
+Document ID: 783
+	PageRank Score: 1.7109767479141845E-4
+Document ID: 784
+	PageRank Score: 3.097282273424629E-4
+Document ID: 785
+	PageRank Score: 2.843578169898813E-4
+Document ID: 786
+	PageRank Score: 2.8679346617157284E-4
+Document ID: 787
+	PageRank Score: 3.09728227342463E-4
+Document ID: 788
+	PageRank Score: 3.09728227342463E-4
+Document ID: 789
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 790
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 791
+	PageRank Score: 1.951720037738023E-4
+Document ID: 792
+	PageRank Score: 3.097282273424629E-4
+Document ID: 793
+	PageRank Score: 1.8910756304500777E-4
+Document ID: 794
+	PageRank Score: 2.532996685307389E-4
+Document ID: 795
+	PageRank Score: 2.1547151950813672E-4
+Document ID: 796
+	PageRank Score: 1.8319028830657413E-4
+Document ID: 797
+	PageRank Score: 1.9517200377380228E-4
+Document ID: 798
+	PageRank Score: 1.7436881358683733E-4
+Document ID: 799
+	PageRank Score: 0.0010391392894048947
+Document ID: 800
+	PageRank Score: 2.1940046376369327E-4
+Document ID: 801
+	PageRank Score: 3.097282273424629E-4
+Document ID: 802
+	PageRank Score: 3.097282273424628E-4
+Document ID: 803
+	PageRank Score: 3.097282273424629E-4
+Document ID: 804
+	PageRank Score: 3.097282273424629E-4
+Document ID: 805
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 806
+	PageRank Score: 3.106176730587265E-4
+Document ID: 807
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 808
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 809
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 810
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 811
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 812
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 813
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 814
+	PageRank Score: 3.097282273424629E-4
+Document ID: 815
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 816
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 817
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 818
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 819
+	PageRank Score: 2.6849878052006307E-4
+Document ID: 820
+	PageRank Score: 3.097282273424629E-4
+Document ID: 821
+	PageRank Score: 3.097282273424629E-4
+Document ID: 822
+	PageRank Score: 3.097282273424629E-4
+Document ID: 823
+	PageRank Score: 2.3950292533761426E-4
+Document ID: 824
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 825
+	PageRank Score: 3.097282273424629E-4
+Document ID: 826
+	PageRank Score: 3.040656151089837E-4
+Document ID: 827
+	PageRank Score: 3.097282273424629E-4
+Document ID: 828
+	PageRank Score: 3.097282273424629E-4
+Document ID: 829
+	PageRank Score: 2.3296430537564803E-4
+Document ID: 830
+	PageRank Score: 5.347150134965957E-4
+Document ID: 831
+	PageRank Score: 2.4686109049036023E-4
+Document ID: 832
+	PageRank Score: 3.097282273424629E-4
+Document ID: 833
+	PageRank Score: 3.097282273424629E-4
+Document ID: 834
+	PageRank Score: 3.476293989291537E-4
+Document ID: 835
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 836
+	PageRank Score: 2.2369299297559042E-4
+Document ID: 837
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 838
+	PageRank Score: 3.09728227342463E-4
+Document ID: 839
+	PageRank Score: 3.09728227342463E-4
+Document ID: 840
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 841
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 842
+	PageRank Score: 3.09728227342463E-4
+Document ID: 843
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 844
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 845
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 846
+	PageRank Score: 3.097282273424629E-4
+Document ID: 847
+	PageRank Score: 3.097282273424629E-4
+Document ID: 848
+	PageRank Score: 3.8650568222845194E-4
+Document ID: 849
+	PageRank Score: 6.898989559464922E-4
+Document ID: 850
+	PageRank Score: 1.7547809939477257E-4
+Document ID: 851
+	PageRank Score: 2.8196328461311675E-4
+Document ID: 852
+	PageRank Score: 2.733294563470271E-4
+Document ID: 853
+	PageRank Score: 1.754780993947726E-4
+Document ID: 854
+	PageRank Score: 2.668111319619086E-4
+Document ID: 855
+	PageRank Score: 1.754780993947726E-4
+Document ID: 856
+	PageRank Score: 1.754780993947726E-4
+Document ID: 857
+	PageRank Score: 1.754780993947726E-4
+Document ID: 858
+	PageRank Score: 2.243086001341785E-4
+Document ID: 859
+	PageRank Score: 1.754780993947726E-4
+Document ID: 860
+	PageRank Score: 2.7501012162484855E-4
+Document ID: 861
+	PageRank Score: 4.579945872960618E-4
+Document ID: 862
+	PageRank Score: 4.4590571519179003E-4
+Document ID: 863
+	PageRank Score: 2.6902033980172904E-4
+Document ID: 864
+	PageRank Score: 5.32490881779486E-4
+Document ID: 865
+	PageRank Score: 2.716022764589701E-4
+Document ID: 866
+	PageRank Score: 1.754780993947726E-4
+Document ID: 867
+	PageRank Score: 3.097282273424658E-4
+Document ID: 868
+	PageRank Score: 1.9517200377380212E-4
+Document ID: 869
+	PageRank Score: 3.097282273424626E-4
+Document ID: 870
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 871
+	PageRank Score: 2.1765175476991445E-4
+Document ID: 872
+	PageRank Score: 2.8706793710787124E-4
+Document ID: 873
+	PageRank Score: 3.097282273424628E-4
+Document ID: 874
+	PageRank Score: 3.097282273424628E-4
+Document ID: 875
+	PageRank Score: 3.097282273424628E-4
+Document ID: 876
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 877
+	PageRank Score: 3.097282273424627E-4
+Document ID: 878
+	PageRank Score: 1.9165543373253927E-4
+Document ID: 879
+	PageRank Score: 2.1278043779047676E-4
+Document ID: 880
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 881
+	PageRank Score: 3.097282273424628E-4
+Document ID: 882
+	PageRank Score: 3.097282273424628E-4
+Document ID: 883
+	PageRank Score: 3.097282273424627E-4
+Document ID: 884
+	PageRank Score: 3.097282273424628E-4
+Document ID: 885
+	PageRank Score: 2.003557255059497E-4
+Document ID: 886
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 887
+	PageRank Score: 3.097282273424628E-4
+Document ID: 888
+	PageRank Score: 3.097282273424759E-4
+Document ID: 889
+	PageRank Score: 3.097282273424628E-4
+Document ID: 890
+	PageRank Score: 2.478714444294447E-4
+Document ID: 891
+	PageRank Score: 3.097282273424628E-4
+Document ID: 892
+	PageRank Score: 2.654805286090044E-4
+Document ID: 893
+	PageRank Score: 2.58691276103284E-4
+Document ID: 894
+	PageRank Score: 3.097282273424646E-4
+Document ID: 895
+	PageRank Score: 3.097282273424628E-4
+Document ID: 896
+	PageRank Score: 3.097282273424628E-4
+Document ID: 897
+	PageRank Score: 3.097282273424628E-4
+Document ID: 898
+	PageRank Score: 3.097282273424628E-4
+Document ID: 899
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 900
+	PageRank Score: 3.097282273424628E-4
+Document ID: 901
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 902
+	PageRank Score: 1.9165543373253916E-4
+Document ID: 903
+	PageRank Score: 3.097282273424627E-4
+Document ID: 904
+	PageRank Score: 3.097282273424627E-4
+Document ID: 905
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 906
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 907
+	PageRank Score: 1.9105389489532584E-4
+Document ID: 908
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 909
+	PageRank Score: 2.555048877545131E-4
+Document ID: 910
+	PageRank Score: 3.097282273424629E-4
+Document ID: 911
+	PageRank Score: 3.1898622109986606E-4
+Document ID: 912
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 913
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 914
+	PageRank Score: 1.6412220488609523E-4
+Document ID: 915
+	PageRank Score: 1.6412220488609523E-4
+Document ID: 916
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 917
+	PageRank Score: 2.5550370588685523E-4
+Document ID: 918
+	PageRank Score: 3.097282273424629E-4
+Document ID: 919
+	PageRank Score: 1.9414291325160358E-4
+Document ID: 920
+	PageRank Score: 2.0960485236518127E-4
+Document ID: 921
+	PageRank Score: 3.097282273424629E-4
+Document ID: 922
+	PageRank Score: 3.097282273424628E-4
+Document ID: 923
+	PageRank Score: 3.097282273424628E-4
+Document ID: 924
+	PageRank Score: 3.097282273424629E-4
+Document ID: 925
+	PageRank Score: 3.097282273424629E-4
+Document ID: 926
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 927
+	PageRank Score: 3.097282273424629E-4
+Document ID: 928
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 929
+	PageRank Score: 3.48526968969943E-4
+Document ID: 930
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 931
+	PageRank Score: 4.538833395368362E-4
+Document ID: 932
+	PageRank Score: 2.345369730274024E-4
+Document ID: 933
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 934
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 935
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 936
+	PageRank Score: 3.097282273424628E-4
+Document ID: 937
+	PageRank Score: 3.097282273424628E-4
+Document ID: 938
+	PageRank Score: 3.097282273424628E-4
+Document ID: 939
+	PageRank Score: 3.097282273424628E-4
+Document ID: 940
+	PageRank Score: 2.671924289729127E-4
+Document ID: 941
+	PageRank Score: 3.097282273424629E-4
+Document ID: 942
+	PageRank Score: 4.014236820912361E-4
+Document ID: 943
+	PageRank Score: 3.097282273424629E-4
+Document ID: 944
+	PageRank Score: 2.6947773591170403E-4
+Document ID: 945
+	PageRank Score: 1.8767671344793372E-4
+Document ID: 946
+	PageRank Score: 2.0892888885836825E-4
+Document ID: 947
+	PageRank Score: 1.7546867555620944E-4
+Document ID: 948
+	PageRank Score: 2.2935799706066615E-4
+Document ID: 949
+	PageRank Score: 2.3994533461549274E-4
+Document ID: 950
+	PageRank Score: 3.097282273424628E-4
+Document ID: 951
+	PageRank Score: 2.8276041531077466E-4
+Document ID: 952
+	PageRank Score: 3.097282273424628E-4
+Document ID: 953
+	PageRank Score: 1.713545345301702E-4
+Document ID: 954
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 955
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 956
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 957
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 958
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 959
+	PageRank Score: 3.097282273424628E-4
+Document ID: 960
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 961
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 962
+	PageRank Score: 3.429871102005291E-4
+Document ID: 963
+	PageRank Score: 1.9765089846902128E-4
+Document ID: 964
+	PageRank Score: 4.7973303900570365E-4
+Document ID: 965
+	PageRank Score: 3.097282273424627E-4
+Document ID: 966
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 967
+	PageRank Score: 2.468610904903599E-4
+Document ID: 968
+	PageRank Score: 3.097282273424627E-4
+Document ID: 969
+	PageRank Score: 1.9482146306293473E-4
+Document ID: 970
+	PageRank Score: 4.072246926296904E-4
+Document ID: 971
+	PageRank Score: 3.097282273424628E-4
+Document ID: 972
+	PageRank Score: 3.0139752317475624E-4
+Document ID: 973
+	PageRank Score: 1.808005053508298E-4
+Document ID: 974
+	PageRank Score: 3.097282273424628E-4
+Document ID: 975
+	PageRank Score: 3.097282273424647E-4
+Document ID: 976
+	PageRank Score: 3.097282273424627E-4
+Document ID: 977
+	PageRank Score: 3.097282273424628E-4
+Document ID: 978
+	PageRank Score: 3.097282273424628E-4
+Document ID: 979
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 980
+	PageRank Score: 3.097282273424628E-4
+Document ID: 981
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 982
+	PageRank Score: 1.7503955857760668E-4
+Document ID: 983
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 984
+	PageRank Score: 3.0170819080355745E-4
+Document ID: 985
+	PageRank Score: 3.097282273424627E-4
+Document ID: 986
+	PageRank Score: 2.2326282132185407E-4
+Document ID: 987
+	PageRank Score: 6.635064814039165E-4
+Document ID: 988
+	PageRank Score: 4.7446859870693594E-4
+Document ID: 989
+	PageRank Score: 3.8273935434715014E-4
+Document ID: 990
+	PageRank Score: 2.45024352803966E-4
+Document ID: 991
+	PageRank Score: 3.097282273424627E-4
+Document ID: 992
+	PageRank Score: 3.097282273424628E-4
+Document ID: 993
+	PageRank Score: 3.097282273424627E-4
+Document ID: 994
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 995
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 996
+	PageRank Score: 2.077603372492859E-4
+Document ID: 997
+	PageRank Score: 2.713394998994796E-4
+Document ID: 998
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 999
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1000
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1001
+	PageRank Score: 2.713394998994796E-4
+Document ID: 1002
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1003
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1004
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1005
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1006
+	PageRank Score: 1.8818293717273382E-4
+Document ID: 1007
+	PageRank Score: 2.129651205221762E-4
+Document ID: 1008
+	PageRank Score: 2.1579192301452756E-4
+Document ID: 1009
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1010
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1011
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1012
+	PageRank Score: 2.4701834061313763E-4
+Document ID: 1013
+	PageRank Score: 3.12275800723487E-4
+Document ID: 1014
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 1015
+	PageRank Score: 2.1328410079271253E-4
+Document ID: 1016
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1017
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1018
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1019
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1020
+	PageRank Score: 2.2326282132185396E-4
+Document ID: 1021
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1022
+	PageRank Score: 2.1970857900140107E-4
+Document ID: 1023
+	PageRank Score: 3.8785582900104776E-4
+Document ID: 1024
+	PageRank Score: 1.8827524796329934E-4
+Document ID: 1025
+	PageRank Score: 2.0716151763350708E-4
+Document ID: 1026
+	PageRank Score: 5.268215786320737E-4
+Document ID: 1027
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1028
+	PageRank Score: 4.354087894136903E-4
+Document ID: 1029
+	PageRank Score: 4.57526878802812E-4
+Document ID: 1030
+	PageRank Score: 3.341226963136576E-4
+Document ID: 1031
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1032
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1033
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1034
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1035
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1036
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1037
+	PageRank Score: 1.7018627162139537E-4
+Document ID: 1038
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1039
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1040
+	PageRank Score: 4.698160628365435E-4
+Document ID: 1041
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1042
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1043
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1044
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1045
+	PageRank Score: 3.097282273424651E-4
+Document ID: 1046
+	PageRank Score: 1.8795704610918346E-4
+Document ID: 1047
+	PageRank Score: 3.2548935938780314E-4
+Document ID: 1048
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1049
+	PageRank Score: 3.0972822734246766E-4
+Document ID: 1050
+	PageRank Score: 3.556382885906685E-4
+Document ID: 1051
+	PageRank Score: 5.812111640800565E-4
+Document ID: 1052
+	PageRank Score: 3.7601232571038217E-4
+Document ID: 1053
+	PageRank Score: 4.729851847150398E-4
+Document ID: 1054
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1055
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1056
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1057
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1058
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1059
+	PageRank Score: 2.3714911240251826E-4
+Document ID: 1060
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1061
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1062
+	PageRank Score: 2.886776385424619E-4
+Document ID: 1063
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1064
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1065
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1066
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1067
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1068
+	PageRank Score: 2.0819574373581815E-4
+Document ID: 1069
+	PageRank Score: 2.4732896008373403E-4
+Document ID: 1070
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1071
+	PageRank Score: 3.097282273424774E-4
+Document ID: 1072
+	PageRank Score: 2.213589914922876E-4
+Document ID: 1073
+	PageRank Score: 3.398784555977828E-4
+Document ID: 1074
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1075
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1076
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1077
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1078
+	PageRank Score: 3.0972822734246267E-4
+Document ID: 1079
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1080
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1081
+	PageRank Score: 2.2369299297558972E-4
+Document ID: 1082
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1083
+	PageRank Score: 5.24029316878353E-4
+Document ID: 1084
+	PageRank Score: 6.075300970233995E-4
+Document ID: 1085
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1086
+	PageRank Score: 2.5319099824852164E-4
+Document ID: 1087
+	PageRank Score: 2.2642369914440942E-4
+Document ID: 1088
+	PageRank Score: 2.586912761032791E-4
+Document ID: 1089
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1090
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1091
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1092
+	PageRank Score: 2.3366900977488217E-4
+Document ID: 1093
+	PageRank Score: 1.9165543373253862E-4
+Document ID: 1094
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1095
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1096
+	PageRank Score: 3.097282273424627E-4
+Document ID: 1097
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1098
+	PageRank Score: 2.86847953493395E-4
+Document ID: 1099
+	PageRank Score: 3.607651785816621E-4
+Document ID: 1100
+	PageRank Score: 2.4501514625563007E-4
+Document ID: 1101
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1102
+	PageRank Score: 3.368922152655255E-4
+Document ID: 1103
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1104
+	PageRank Score: 1.8468389666173544E-4
+Document ID: 1105
+	PageRank Score: 1.5678670197631693E-4
+Document ID: 1106
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1107
+	PageRank Score: 2.4501514625563007E-4
+Document ID: 1108
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1109
+	PageRank Score: 1.6454277453495215E-4
+Document ID: 1110
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1111
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1112
+	PageRank Score: 3.050906795815004E-4
+Document ID: 1113
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1114
+	PageRank Score: 3.8650568222845373E-4
+Document ID: 1115
+	PageRank Score: 1.8157907389164656E-4
+Document ID: 1116
+	PageRank Score: 3.930345849997694E-4
+Document ID: 1117
+	PageRank Score: 3.026023914701284E-4
+Document ID: 1118
+	PageRank Score: 3.040656151089837E-4
+Document ID: 1119
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1120
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1121
+	PageRank Score: 2.1794885051620023E-4
+Document ID: 1122
+	PageRank Score: 2.207863898646214E-4
+Document ID: 1123
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1124
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1125
+	PageRank Score: 3.097282273424628E-4
+Document ID: 1126
+	PageRank Score: 2.468610904903595E-4
+Document ID: 1127
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1128
+	PageRank Score: 2.3418087171315298E-4
+Document ID: 1129
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1130
+	PageRank Score: 3.0629435013112535E-4
+Document ID: 1131
+	PageRank Score: 1.5933800000157524E-4
+Document ID: 1132
+	PageRank Score: 2.933871489592109E-4
+Document ID: 1133
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1134
+	PageRank Score: 3.791220042466223E-4
+Document ID: 1135
+	PageRank Score: 2.249610384207943E-4
+Document ID: 1136
+	PageRank Score: 3.2303728589822423E-4
+Document ID: 1137
+	PageRank Score: 2.028887862368673E-4
+Document ID: 1138
+	PageRank Score: 1.6412220488609463E-4
+Document ID: 1139
+	PageRank Score: 5.385448286653051E-4
+Document ID: 1140
+	PageRank Score: 3.1441792888313723E-4
+Document ID: 1141
+	PageRank Score: 4.5597422780434775E-4
+Document ID: 1142
+	PageRank Score: 1.6703208355153153E-4
+Document ID: 1143
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1144
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1145
+	PageRank Score: 4.016738818131447E-4
+Document ID: 1146
+	PageRank Score: 3.097282273424683E-4
+Document ID: 1147
+	PageRank Score: 3.097282273424637E-4
+Document ID: 1148
+	PageRank Score: 3.607651785816674E-4
+Document ID: 1149
+	PageRank Score: 1.5933800000157518E-4
+Document ID: 1150
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1151
+	PageRank Score: 2.0871150048074408E-4
+Document ID: 1152
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1153
+	PageRank Score: 4.2800286488579886E-4
+Document ID: 1154
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1155
+	PageRank Score: 4.010950939019006E-4
+Document ID: 1156
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1157
+	PageRank Score: 4.8243150278460336E-4
+Document ID: 1158
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 1159
+	PageRank Score: 1.980405467584151E-4
+Document ID: 1160
+	PageRank Score: 2.2293768681831862E-4
+Document ID: 1161
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1162
+	PageRank Score: 1.7634547894137555E-4
+Document ID: 1163
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1164
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1165
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1166
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1167
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1168
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1169
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1170
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1171
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1172
+	PageRank Score: 3.7647515375823924E-4
+Document ID: 1173
+	PageRank Score: 2.9308704838357095E-4
+Document ID: 1174
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1175
+	PageRank Score: 5.344280617872039E-4
+Document ID: 1176
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1177
+	PageRank Score: 3.3045570414779607E-4
+Document ID: 1178
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1179
+	PageRank Score: 3.055893902575736E-4
+Document ID: 1180
+	PageRank Score: 2.508582235870524E-4
+Document ID: 1181
+	PageRank Score: 3.097282273424665E-4
+Document ID: 1182
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1183
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1184
+	PageRank Score: 4.8114908018534046E-4
+Document ID: 1185
+	PageRank Score: 3.249620810973215E-4
+Document ID: 1186
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1187
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1188
+	PageRank Score: 2.1038327066989808E-4
+Document ID: 1189
+	PageRank Score: 2.183463706217555E-4
+Document ID: 1190
+	PageRank Score: 4.1965361712931957E-4
+Document ID: 1191
+	PageRank Score: 1.906937003800548E-4
+Document ID: 1192
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1193
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1194
+	PageRank Score: 2.6638220311698516E-4
+Document ID: 1195
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1196
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1197
+	PageRank Score: 2.1278043779047583E-4
+Document ID: 1198
+	PageRank Score: 5.156613097908456E-4
+Document ID: 1199
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1200
+	PageRank Score: 1.6412220488609442E-4
+Document ID: 1201
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1202
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1203
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1204
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1205
+	PageRank Score: 6.288427541358954E-4
+Document ID: 1206
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1207
+	PageRank Score: 2.0365389932533654E-4
+Document ID: 1208
+	PageRank Score: 2.987883401210304E-4
+Document ID: 1209
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1210
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1211
+	PageRank Score: 2.3124795982802044E-4
+Document ID: 1212
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1213
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1214
+	PageRank Score: 2.4953739768617737E-4
+Document ID: 1215
+	PageRank Score: 3.8296962198205856E-4
+Document ID: 1216
+	PageRank Score: 2.659049489390988E-4
+Document ID: 1217
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1218
+	PageRank Score: 3.0972822734247015E-4
+Document ID: 1219
+	PageRank Score: 3.097282273424663E-4
+Document ID: 1220
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1221
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1222
+	PageRank Score: 4.265909089969559E-4
+Document ID: 1223
+	PageRank Score: 3.9468017223837055E-4
+Document ID: 1224
+	PageRank Score: 2.359923841829649E-4
+Document ID: 1225
+	PageRank Score: 4.2618836470054156E-4
+Document ID: 1226
+	PageRank Score: 1.999738944999207E-4
+Document ID: 1227
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1228
+	PageRank Score: 2.1365430193630292E-4
+Document ID: 1229
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1230
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1231
+	PageRank Score: 2.847660733446798E-4
+Document ID: 1232
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1233
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1234
+	PageRank Score: 5.475020867505087E-4
+Document ID: 1235
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1236
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1237
+	PageRank Score: 4.7971870077669494E-4
+Document ID: 1238
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1239
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1240
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1241
+	PageRank Score: 3.4942974022423494E-4
+Document ID: 1242
+	PageRank Score: 2.5550488775451317E-4
+Document ID: 1243
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1244
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1245
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1246
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1247
+	PageRank Score: 2.739060842664028E-4
+Document ID: 1248
+	PageRank Score: 2.741866352338495E-4
+Document ID: 1249
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1250
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1251
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1252
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1253
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1254
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1255
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1256
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1257
+	PageRank Score: 3.097282273424674E-4
+Document ID: 1258
+	PageRank Score: 2.498871071922711E-4
+Document ID: 1259
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1260
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1261
+	PageRank Score: 2.048030219386487E-4
+Document ID: 1262
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 1263
+	PageRank Score: 2.758539144092854E-4
+Document ID: 1264
+	PageRank Score: 2.586912761032777E-4
+Document ID: 1265
+	PageRank Score: 7.406049239669303E-4
+Document ID: 1266
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1267
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1268
+	PageRank Score: 2.4787144442944435E-4
+Document ID: 1269
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1270
+	PageRank Score: 3.6247937162273494E-4
+Document ID: 1271
+	PageRank Score: 2.0774503866383438E-4
+Document ID: 1272
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1273
+	PageRank Score: 2.7959887710017915E-4
+Document ID: 1274
+	PageRank Score: 3.097282273424637E-4
+Document ID: 1275
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1276
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1277
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1278
+	PageRank Score: 4.019151501193419E-4
+Document ID: 1279
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1280
+	PageRank Score: 3.097282273424636E-4
+Document ID: 1281
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1282
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1283
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1284
+	PageRank Score: 2.3230153953252705E-4
+Document ID: 1285
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1286
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1287
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1288
+	PageRank Score: 1.6963300823003878E-4
+Document ID: 1289
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1290
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1291
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1292
+	PageRank Score: 4.4266319150626244E-4
+Document ID: 1293
+	PageRank Score: 2.8417083454153477E-4
+Document ID: 1294
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1295
+	PageRank Score: 2.713394998994792E-4
+Document ID: 1296
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1297
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1298
+	PageRank Score: 1.91841296334775E-4
+Document ID: 1299
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1300
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1301
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1302
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1303
+	PageRank Score: 5.649919099407506E-4
+Document ID: 1304
+	PageRank Score: 2.3176534851805154E-4
+Document ID: 1305
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1306
+	PageRank Score: 2.0698975497274573E-4
+Document ID: 1307
+	PageRank Score: 2.4787144442944473E-4
+Document ID: 1308
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1309
+	PageRank Score: 2.347244137387417E-4
+Document ID: 1310
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1311
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1312
+	PageRank Score: 1.7466330608480874E-4
+Document ID: 1313
+	PageRank Score: 3.308971169645127E-4
+Document ID: 1314
+	PageRank Score: 1.7719816982437038E-4
+Document ID: 1315
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1316
+	PageRank Score: 2.3230153953252694E-4
+Document ID: 1317
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1318
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1319
+	PageRank Score: 3.0931851678471246E-4
+Document ID: 1320
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1321
+	PageRank Score: 2.2326282132185312E-4
+Document ID: 1322
+	PageRank Score: 3.0972822734246587E-4
+Document ID: 1323
+	PageRank Score: 4.296399059248056E-4
+Document ID: 1324
+	PageRank Score: 7.206766530164508E-4
+Document ID: 1325
+	PageRank Score: 3.097282273424691E-4
+Document ID: 1326
+	PageRank Score: 3.9489079915517276E-4
+Document ID: 1327
+	PageRank Score: 3.4534009617871655E-4
+Document ID: 1328
+	PageRank Score: 3.674456856601242E-4
+Document ID: 1329
+	PageRank Score: 3.310952326725144E-4
+Document ID: 1330
+	PageRank Score: 3.054487154648119E-4
+Document ID: 1331
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1332
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1333
+	PageRank Score: 2.2012408703891198E-4
+Document ID: 1334
+	PageRank Score: 2.2370696691801953E-4
+Document ID: 1335
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1336
+	PageRank Score: 2.1300368408641237E-4
+Document ID: 1337
+	PageRank Score: 1.8749815519153668E-4
+Document ID: 1338
+	PageRank Score: 3.367313298784184E-4
+Document ID: 1339
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1340
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1341
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1342
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1343
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1344
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1345
+	PageRank Score: 2.7133949989947717E-4
+Document ID: 1346
+	PageRank Score: 2.8276041531077466E-4
+Document ID: 1347
+	PageRank Score: 2.7000222423367024E-4
+Document ID: 1348
+	PageRank Score: 2.5661014095934337E-4
+Document ID: 1349
+	PageRank Score: 5.627516912448776E-4
+Document ID: 1350
+	PageRank Score: 3.9624770263832314E-4
+Document ID: 1351
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1352
+	PageRank Score: 8.603230557728578E-4
+Document ID: 1353
+	PageRank Score: 3.097282273424728E-4
+Document ID: 1354
+	PageRank Score: 4.999212916797976E-4
+Document ID: 1355
+	PageRank Score: 2.4478618114660665E-4
+Document ID: 1356
+	PageRank Score: 2.3055213348826617E-4
+Document ID: 1357
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1358
+	PageRank Score: 5.855375009467438E-4
+Document ID: 1359
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1360
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1361
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1362
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1363
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1364
+	PageRank Score: 3.097282273424636E-4
+Document ID: 1365
+	PageRank Score: 2.6965216443755044E-4
+Document ID: 1366
+	PageRank Score: 3.112459074720332E-4
+Document ID: 1367
+	PageRank Score: 2.2625969937883515E-4
+Document ID: 1368
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1369
+	PageRank Score: 2.1793835984559116E-4
+Document ID: 1370
+	PageRank Score: 2.5267996668755597E-4
+Document ID: 1371
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1372
+	PageRank Score: 2.7133949989948005E-4
+Document ID: 1373
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1374
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1375
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1376
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1377
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1378
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1379
+	PageRank Score: 4.417975181489551E-4
+Document ID: 1380
+	PageRank Score: 5.014535074441841E-4
+Document ID: 1381
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1382
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1383
+	PageRank Score: 1.6885073143645176E-4
+Document ID: 1384
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1385
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1386
+	PageRank Score: 1.7726546223397087E-4
+Document ID: 1387
+	PageRank Score: 2.3050886182842588E-4
+Document ID: 1388
+	PageRank Score: 2.5695755437365043E-4
+Document ID: 1389
+	PageRank Score: 3.2349519904596036E-4
+Document ID: 1390
+	PageRank Score: 1.573153463107665E-4
+Document ID: 1391
+	PageRank Score: 2.5869127610327796E-4
+Document ID: 1392
+	PageRank Score: 2.678827836308662E-4
+Document ID: 1393
+	PageRank Score: 4.925604966373149E-4
+Document ID: 1394
+	PageRank Score: 1.7726546223397087E-4
+Document ID: 1395
+	PageRank Score: 2.4170232212314345E-4
+Document ID: 1396
+	PageRank Score: 0.0019353136876663925
+Document ID: 1397
+	PageRank Score: 2.2362861624581883E-4
+Document ID: 1398
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1399
+	PageRank Score: 1.9601587328969667E-4
+Document ID: 1400
+	PageRank Score: 1.7786132520599876E-4
+Document ID: 1401
+	PageRank Score: 3.097282273424664E-4
+Document ID: 1402
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1403
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1404
+	PageRank Score: 3.097282273424651E-4
+Document ID: 1405
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1406
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1407
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1408
+	PageRank Score: 1.6731931005763362E-4
+Document ID: 1409
+	PageRank Score: 2.2846387159268118E-4
+Document ID: 1410
+	PageRank Score: 2.60255259018619E-4
+Document ID: 1411
+	PageRank Score: 2.774393348246729E-4
+Document ID: 1412
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 1413
+	PageRank Score: 2.344296150810404E-4
+Document ID: 1414
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1415
+	PageRank Score: 3.097282273424629E-4
+Document ID: 1416
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1417
+	PageRank Score: 2.970485413167336E-4
+Document ID: 1418
+	PageRank Score: 2.9326810563917445E-4
+Document ID: 1419
+	PageRank Score: 3.323847154413606E-4
+Document ID: 1420
+	PageRank Score: 2.199225329565672E-4
+Document ID: 1421
+	PageRank Score: 4.458276300940906E-4
+Document ID: 1422
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1423
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1424
+	PageRank Score: 1.7396436873731502E-4
+Document ID: 1425
+	PageRank Score: 3.353025469177083E-4
+Document ID: 1426
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1427
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1428
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1429
+	PageRank Score: 3.8231229451654185E-4
+Document ID: 1430
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1431
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1432
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1433
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1434
+	PageRank Score: 2.8491992033226907E-4
+Document ID: 1435
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 1436
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1437
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1438
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1439
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 1440
+	PageRank Score: 3.4365106938111884E-4
+Document ID: 1441
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1442
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1443
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 1444
+	PageRank Score: 1.832073101348093E-4
+Document ID: 1445
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1446
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1447
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1448
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1449
+	PageRank Score: 2.375047191820905E-4
+Document ID: 1450
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1451
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1452
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1453
+	PageRank Score: 2.3924264623985446E-4
+Document ID: 1454
+	PageRank Score: 3.09728227342463E-4
+Document ID: 1455
+	PageRank Score: 4.914810038985922E-4
+Document ID: 1456
+	PageRank Score: 1.7868499789021553E-4
+Document ID: 1457
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1458
+	PageRank Score: 1.6483985437433383E-4
+Document ID: 1459
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1460
+	PageRank Score: 1.9135596792968745E-4
+Document ID: 1461
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1462
+	PageRank Score: 1.593380000015744E-4
+Document ID: 1463
+	PageRank Score: 1.593380000015744E-4
+Document ID: 1464
+	PageRank Score: 1.9464785411735401E-4
+Document ID: 1465
+	PageRank Score: 3.097282273424631E-4
+Document ID: 1466
+	PageRank Score: 1.758215945808794E-4
+Document ID: 1467
+	PageRank Score: 2.022596279265135E-4
+Document ID: 1468
+	PageRank Score: 3.069626885390687E-4
+Document ID: 1469
+	PageRank Score: 3.776991742059778E-4
+Document ID: 1470
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 1471
+	PageRank Score: 0.0012381515845570614
+Document ID: 1472
+	PageRank Score: 2.317653485180512E-4
+Document ID: 1473
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1474
+	PageRank Score: 3.097282273424714E-4
+Document ID: 1475
+	PageRank Score: 3.097282273424632E-4
+Document ID: 1476
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1477
+	PageRank Score: 7.164804689765299E-4
+Document ID: 1478
+	PageRank Score: 3.0972822734247286E-4
+Document ID: 1479
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1480
+	PageRank Score: 2.555048877545137E-4
+Document ID: 1481
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1482
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1483
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1484
+	PageRank Score: 2.023586669124669E-4
+Document ID: 1485
+	PageRank Score: 1.5910108238082472E-4
+Document ID: 1486
+	PageRank Score: 1.934814215888531E-4
+Document ID: 1487
+	PageRank Score: 5.187638924711757E-4
+Document ID: 1488
+	PageRank Score: 2.465852003806609E-4
+Document ID: 1489
+	PageRank Score: 2.0712219056274303E-4
+Document ID: 1490
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1491
+	PageRank Score: 0.0014545875425696457
+Document ID: 1492
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1493
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1494
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1495
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1496
+	PageRank Score: 6.229612171381971E-4
+Document ID: 1497
+	PageRank Score: 4.4266319150626244E-4
+Document ID: 1498
+	PageRank Score: 1.9354221101191123E-4
+Document ID: 1499
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1500
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1501
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1502
+	PageRank Score: 4.119240879937429E-4
+Document ID: 1503
+	PageRank Score: 1.7417445894286256E-4
+Document ID: 1504
+	PageRank Score: 4.4071317303758195E-4
+Document ID: 1505
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1506
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1507
+	PageRank Score: 2.7133949989947706E-4
+Document ID: 1508
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1509
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1510
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 1511
+	PageRank Score: 3.0972822734246603E-4
+Document ID: 1512
+	PageRank Score: 3.097282273424636E-4
+Document ID: 1513
+	PageRank Score: 3.097282273424636E-4
+Document ID: 1514
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1515
+	PageRank Score: 3.2355931489420637E-4
+Document ID: 1516
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1517
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 1518
+	PageRank Score: 2.7743790143259443E-4
+Document ID: 1519
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1520
+	PageRank Score: 3.097282273424635E-4
+Document ID: 1521
+	PageRank Score: 2.3440257762862067E-4
+Document ID: 1522
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 1523
+	PageRank Score: 4.333163025938442E-4
+Document ID: 1524
+	PageRank Score: 4.4532078254864516E-4
+Document ID: 1525
+	PageRank Score: 4.346092645887718E-4
+Document ID: 1526
+	PageRank Score: 3.017015398107356E-4
+Document ID: 1527
+	PageRank Score: 2.3313197246000055E-4
+Document ID: 1528
+	PageRank Score: 2.1248486041138326E-4
+Document ID: 1529
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1530
+	PageRank Score: 2.251903316248408E-4
+Document ID: 1531
+	PageRank Score: 2.804584110968173E-4
+Document ID: 1532
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1533
+	PageRank Score: 3.0873980135433444E-4
+Document ID: 1534
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1535
+	PageRank Score: 2.084461728150411E-4
+Document ID: 1536
+	PageRank Score: 1.7840512625991964E-4
+Document ID: 1537
+	PageRank Score: 2.503657357775302E-4
+Document ID: 1538
+	PageRank Score: 1.9676237359825873E-4
+Document ID: 1539
+	PageRank Score: 3.8179907131514486E-4
+Document ID: 1540
+	PageRank Score: 3.6229796942160227E-4
+Document ID: 1541
+	PageRank Score: 1.888275098916874E-4
+Document ID: 1542
+	PageRank Score: 4.266312814611746E-4
+Document ID: 1543
+	PageRank Score: 3.481169547854565E-4
+Document ID: 1544
+	PageRank Score: 2.608571202710906E-4
+Document ID: 1545
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1546
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1547
+	PageRank Score: 3.097282273424689E-4
+Document ID: 1548
+	PageRank Score: 4.546500563807391E-4
+Document ID: 1549
+	PageRank Score: 6.682541970485916E-4
+Document ID: 1550
+	PageRank Score: 4.065562170604333E-4
+Document ID: 1551
+	PageRank Score: 3.7432654644933426E-4
+Document ID: 1552
+	PageRank Score: 3.044408866381265E-4
+Document ID: 1553
+	PageRank Score: 2.2304202738726394E-4
+Document ID: 1554
+	PageRank Score: 2.0488178803501422E-4
+Document ID: 1555
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1556
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1557
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1558
+	PageRank Score: 2.077603372492845E-4
+Document ID: 1559
+	PageRank Score: 3.607651785816611E-4
+Document ID: 1560
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1561
+	PageRank Score: 1.9710806428747504E-4
+Document ID: 1562
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1563
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1564
+	PageRank Score: 1.8605859521201763E-4
+Document ID: 1565
+	PageRank Score: 5.703048042949297E-4
+Document ID: 1566
+	PageRank Score: 3.5445305616783114E-4
+Document ID: 1567
+	PageRank Score: 2.5869127610327747E-4
+Document ID: 1568
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1569
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1570
+	PageRank Score: 2.354994342091869E-4
+Document ID: 1571
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1572
+	PageRank Score: 4.0825848313392316E-4
+Document ID: 1573
+	PageRank Score: 2.435915675096452E-4
+Document ID: 1574
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1575
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1576
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1577
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1578
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1579
+	PageRank Score: 3.097282273424633E-4
+Document ID: 1580
+	PageRank Score: 3.097282273424695E-4
+Document ID: 1581
+	PageRank Score: 2.837934479217245E-4
+Document ID: 1582
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 1583
+	PageRank Score: 5.611967747508962E-4
+Document ID: 1584
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1585
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1586
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1587
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1588
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1589
+	PageRank Score: 2.47871444429444E-4
+Document ID: 1590
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1591
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 1592
+	PageRank Score: 3.7951001462283366E-4
+Document ID: 1593
+	PageRank Score: 3.2062889433925364E-4
+Document ID: 1594
+	PageRank Score: 3.076914500793905E-4
+Document ID: 1595
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1596
+	PageRank Score: 3.097282273424634E-4
+Document ID: 1597
+	PageRank Score: 2.344025776286205E-4
+Document ID: 1598
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1599
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 1600
+	PageRank Score: 4.269573853675819E-4
+Document ID: 1601
+	PageRank Score: 1.5933800000157407E-4
+Document ID: 1602
+	PageRank Score: 1.5933800000157407E-4
+Document ID: 1603
+	PageRank Score: 1.6483985437433383E-4
+Document ID: 1604
+	PageRank Score: 4.684150559620128E-4
+Document ID: 1605
+	PageRank Score: 2.68075369876261E-4
+Document ID: 1606
+	PageRank Score: 3.865056822284526E-4
+Document ID: 1607
+	PageRank Score: 3.097282273424636E-4
+Document ID: 1608
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 1609
+	PageRank Score: 2.348977516341532E-4
+Document ID: 1610
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1611
+	PageRank Score: 3.8650568222845265E-4
+Document ID: 1612
+	PageRank Score: 1.6190147396619156E-4
+Document ID: 1613
+	PageRank Score: 4.661041094415978E-4
+Document ID: 1614
+	PageRank Score: 4.2519847315648226E-4
+Document ID: 1615
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1616
+	PageRank Score: 2.713394998994768E-4
+Document ID: 1617
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1618
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1619
+	PageRank Score: 2.1782851758120217E-4
+Document ID: 1620
+	PageRank Score: 2.6849878052006307E-4
+Document ID: 1621
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1622
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1623
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1624
+	PageRank Score: 1.9247658940804206E-4
+Document ID: 1625
+	PageRank Score: 2.1839468515915788E-4
+Document ID: 1626
+	PageRank Score: 6.377438510731191E-4
+Document ID: 1627
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1628
+	PageRank Score: 3.09728227342465E-4
+Document ID: 1629
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1630
+	PageRank Score: 2.5262984082231226E-4
+Document ID: 1631
+	PageRank Score: 2.1992253295656666E-4
+Document ID: 1632
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1633
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1634
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1635
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1636
+	PageRank Score: 2.378643520001895E-4
+Document ID: 1637
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1638
+	PageRank Score: 3.6008659874098634E-4
+Document ID: 1639
+	PageRank Score: 4.723982461063417E-4
+Document ID: 1640
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1641
+	PageRank Score: 3.353084451424885E-4
+Document ID: 1642
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1643
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1644
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1645
+	PageRank Score: 2.1328410079271258E-4
+Document ID: 1646
+	PageRank Score: 4.724494591216982E-4
+Document ID: 1647
+	PageRank Score: 2.940273513528242E-4
+Document ID: 1648
+	PageRank Score: 2.7824827418026333E-4
+Document ID: 1649
+	PageRank Score: 1.9850688515719444E-4
+Document ID: 1650
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1651
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1652
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1653
+	PageRank Score: 4.715717110289799E-4
+Document ID: 1654
+	PageRank Score: 2.68171128830589E-4
+Document ID: 1655
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1656
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1657
+	PageRank Score: 1.8817961519233497E-4
+Document ID: 1658
+	PageRank Score: 3.6076517858166343E-4
+Document ID: 1659
+	PageRank Score: 4.965969883274573E-4
+Document ID: 1660
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1661
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1662
+	PageRank Score: 3.841782659469779E-4
+Document ID: 1663
+	PageRank Score: 3.6655579864885345E-4
+Document ID: 1664
+	PageRank Score: 3.481169547854565E-4
+Document ID: 1665
+	PageRank Score: 3.294367376464806E-4
+Document ID: 1666
+	PageRank Score: 2.586912761032777E-4
+Document ID: 1667
+	PageRank Score: 4.723982461063468E-4
+Document ID: 1668
+	PageRank Score: 2.5060082187500807E-4
+Document ID: 1669
+	PageRank Score: 2.5060082187500807E-4
+Document ID: 1670
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1671
+	PageRank Score: 1.7357877327589234E-4
+Document ID: 1672
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1673
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1674
+	PageRank Score: 4.547743263791508E-4
+Document ID: 1675
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1676
+	PageRank Score: 2.177279080871204E-4
+Document ID: 1677
+	PageRank Score: 3.097282273424667E-4
+Document ID: 1678
+	PageRank Score: 1.701369269401013E-4
+Document ID: 1679
+	PageRank Score: 2.3647209539392352E-4
+Document ID: 1680
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 1681
+	PageRank Score: 2.6638220311698516E-4
+Document ID: 1682
+	PageRank Score: 2.573837399535472E-4
+Document ID: 1683
+	PageRank Score: 3.527192150690959E-4
+Document ID: 1684
+	PageRank Score: 4.062477790221307E-4
+Document ID: 1685
+	PageRank Score: 2.3657681115802864E-4
+Document ID: 1686
+	PageRank Score: 1.9164938304045006E-4
+Document ID: 1687
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1688
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1689
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1690
+	PageRank Score: 3.0972822734246587E-4
+Document ID: 1691
+	PageRank Score: 5.637683798110845E-4
+Document ID: 1692
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1693
+	PageRank Score: 3.4565399547635756E-4
+Document ID: 1694
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 1695
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1696
+	PageRank Score: 3.097282273424638E-4
+Document ID: 1697
+	PageRank Score: 2.653648441904031E-4
+Document ID: 1698
+	PageRank Score: 1.6483985437433388E-4
+Document ID: 1699
+	PageRank Score: 3.221932709983104E-4
+Document ID: 1700
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1701
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1702
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1703
+	PageRank Score: 1.8638509447384022E-4
+Document ID: 1704
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 1705
+	PageRank Score: 4.777296846724028E-4
+Document ID: 1706
+	PageRank Score: 2.256380738351071E-4
+Document ID: 1707
+	PageRank Score: 4.954092232177729E-4
+Document ID: 1708
+	PageRank Score: 2.3788936280698476E-4
+Document ID: 1709
+	PageRank Score: 3.097282273424639E-4
+Document ID: 1710
+	PageRank Score: 2.24461071336089E-4
+Document ID: 1711
+	PageRank Score: 3.8650568222845086E-4
+Document ID: 1712
+	PageRank Score: 3.865056822284527E-4
+Document ID: 1713
+	PageRank Score: 2.962498379101087E-4
+Document ID: 1714
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1715
+	PageRank Score: 3.09728227342465E-4
+Document ID: 1716
+	PageRank Score: 3.715086254844849E-4
+Document ID: 1717
+	PageRank Score: 3.09728227342464E-4
+Document ID: 1718
+	PageRank Score: 3.865056822284487E-4
+Document ID: 1719
+	PageRank Score: 1.6731931005763294E-4
+Document ID: 1720
+	PageRank Score: 2.587178803672887E-4
+Document ID: 1721
+	PageRank Score: 3.097282273424642E-4
+Document ID: 1722
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 1723
+	PageRank Score: 3.0803335183815587E-4
+Document ID: 1724
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1725
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1726
+	PageRank Score: 3.0972822734246923E-4
+Document ID: 1727
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1728
+	PageRank Score: 8.692677315582711E-4
+Document ID: 1729
+	PageRank Score: 1.8552072204575776E-4
+Document ID: 1730
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1731
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1732
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1733
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1734
+	PageRank Score: 3.097282273424674E-4
+Document ID: 1735
+	PageRank Score: 2.2187094051298568E-4
+Document ID: 1736
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1737
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1738
+	PageRank Score: 3.097282273424674E-4
+Document ID: 1739
+	PageRank Score: 2.208600228456128E-4
+Document ID: 1740
+	PageRank Score: 3.607651785816622E-4
+Document ID: 1741
+	PageRank Score: 4.5449369934313683E-4
+Document ID: 1742
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1743
+	PageRank Score: 3.0972822734246565E-4
+Document ID: 1744
+	PageRank Score: 3.097282273424656E-4
+Document ID: 1745
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1746
+	PageRank Score: 3.9748614636017827E-4
+Document ID: 1747
+	PageRank Score: 2.1142113650653223E-4
+Document ID: 1748
+	PageRank Score: 3.591442407127402E-4
+Document ID: 1749
+	PageRank Score: 0.001160629402099955
+Document ID: 1750
+	PageRank Score: 2.1842594862782311E-4
+Document ID: 1751
+	PageRank Score: 0.0013830403062025072
+Document ID: 1752
+	PageRank Score: 3.217985265346788E-4
+Document ID: 1753
+	PageRank Score: 2.7520177858332E-4
+Document ID: 1754
+	PageRank Score: 5.973048955883065E-4
+Document ID: 1755
+	PageRank Score: 3.097282273424642E-4
+Document ID: 1756
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1757
+	PageRank Score: 3.097282273424642E-4
+Document ID: 1758
+	PageRank Score: 3.097282273424642E-4
+Document ID: 1759
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1760
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1761
+	PageRank Score: 1.9085175710862882E-4
+Document ID: 1762
+	PageRank Score: 3.097282273424642E-4
+Document ID: 1763
+	PageRank Score: 3.097282273424642E-4
+Document ID: 1764
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1765
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 1766
+	PageRank Score: 3.097282273424664E-4
+Document ID: 1767
+	PageRank Score: 5.0008708839089E-4
+Document ID: 1768
+	PageRank Score: 2.2865817972485486E-4
+Document ID: 1769
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1770
+	PageRank Score: 3.09728227342465E-4
+Document ID: 1771
+	PageRank Score: 7.647161312872588E-4
+Document ID: 1772
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1773
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 1774
+	PageRank Score: 3.6373007170325796E-4
+Document ID: 1775
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1776
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1777
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1778
+	PageRank Score: 2.2667239936402847E-4
+Document ID: 1779
+	PageRank Score: 3.1660460872680085E-4
+Document ID: 1780
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 1781
+	PageRank Score: 0.0038555734528188156
+Document ID: 1782
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1783
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1784
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1785
+	PageRank Score: 0.001131686469904744
+Document ID: 1786
+	PageRank Score: 5.976521273683267E-4
+Document ID: 1787
+	PageRank Score: 5.772195083394504E-4
+Document ID: 1788
+	PageRank Score: 4.269258637810184E-4
+Document ID: 1789
+	PageRank Score: 3.097282273424644E-4
+Document ID: 1790
+	PageRank Score: 3.097282273424643E-4
+Document ID: 1791
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 1792
+	PageRank Score: 3.2309353485479066E-4
+Document ID: 1793
+	PageRank Score: 2.2935799706066596E-4
+Document ID: 1794
+	PageRank Score: 2.773978340622734E-4
+Document ID: 1795
+	PageRank Score: 3.097282273424644E-4
+Document ID: 1796
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1797
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1798
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1799
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1800
+	PageRank Score: 2.766394027535553E-4
+Document ID: 1801
+	PageRank Score: 3.097282273424644E-4
+Document ID: 1802
+	PageRank Score: 3.097282273424644E-4
+Document ID: 1803
+	PageRank Score: 2.713394998994792E-4
+Document ID: 1804
+	PageRank Score: 2.772485717659216E-4
+Document ID: 1805
+	PageRank Score: 3.4890286353612813E-4
+Document ID: 1806
+	PageRank Score: 3.865056822284533E-4
+Document ID: 1807
+	PageRank Score: 4.427983505191242E-4
+Document ID: 1808
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1809
+	PageRank Score: 3.097282273424644E-4
+Document ID: 1810
+	PageRank Score: 1.9547020039167222E-4
+Document ID: 1811
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1812
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1813
+	PageRank Score: 3.4852696896994496E-4
+Document ID: 1814
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1815
+	PageRank Score: 3.09728227342465E-4
+Document ID: 1816
+	PageRank Score: 3.0972822734247547E-4
+Document ID: 1817
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1818
+	PageRank Score: 2.7663940275355535E-4
+Document ID: 1819
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1820
+	PageRank Score: 3.0972822734246603E-4
+Document ID: 1821
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1822
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1823
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1824
+	PageRank Score: 2.718367960391515E-4
+Document ID: 1825
+	PageRank Score: 2.71176432797922E-4
+Document ID: 1826
+	PageRank Score: 6.055862444678607E-4
+Document ID: 1827
+	PageRank Score: 2.3577986415718538E-4
+Document ID: 1828
+	PageRank Score: 1.9644030113478175E-4
+Document ID: 1829
+	PageRank Score: 2.1964366584337729E-4
+Document ID: 1830
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1831
+	PageRank Score: 2.1142255310080483E-4
+Document ID: 1832
+	PageRank Score: 2.100433067928348E-4
+Document ID: 1833
+	PageRank Score: 2.713394998994774E-4
+Document ID: 1834
+	PageRank Score: 8.760954688714429E-4
+Document ID: 1835
+	PageRank Score: 2.0843665792105658E-4
+Document ID: 1836
+	PageRank Score: 4.7793682093811326E-4
+Document ID: 1837
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1838
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1839
+	PageRank Score: 3.097282273424645E-4
+Document ID: 1840
+	PageRank Score: 1.9676237359825803E-4
+Document ID: 1841
+	PageRank Score: 3.1642246385100206E-4
+Document ID: 1842
+	PageRank Score: 2.713394998994774E-4
+Document ID: 1843
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1844
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 1845
+	PageRank Score: 2.374679220309436E-4
+Document ID: 1846
+	PageRank Score: 4.3700245161471587E-4
+Document ID: 1847
+	PageRank Score: 4.5867375850597753E-4
+Document ID: 1848
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 1849
+	PageRank Score: 2.713394998994789E-4
+Document ID: 1850
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1851
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 1852
+	PageRank Score: 2.277250869502297E-4
+Document ID: 1853
+	PageRank Score: 3.3756376198969344E-4
+Document ID: 1854
+	PageRank Score: 3.249570387364235E-4
+Document ID: 1855
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1856
+	PageRank Score: 5.408028689978327E-4
+Document ID: 1857
+	PageRank Score: 2.47871444429443E-4
+Document ID: 1858
+	PageRank Score: 4.516913121959647E-4
+Document ID: 1859
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1860
+	PageRank Score: 7.582929123919849E-4
+Document ID: 1861
+	PageRank Score: 2.4455745313186787E-4
+Document ID: 1862
+	PageRank Score: 2.1997164995942906E-4
+Document ID: 1863
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1864
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1865
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1866
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1867
+	PageRank Score: 2.1418471733139802E-4
+Document ID: 1868
+	PageRank Score: 3.097282273424646E-4
+Document ID: 1869
+	PageRank Score: 2.641613831742925E-4
+Document ID: 1870
+	PageRank Score: 2.154842254461279E-4
+Document ID: 1871
+	PageRank Score: 2.3910028149320622E-4
+Document ID: 1872
+	PageRank Score: 2.555048877545121E-4
+Document ID: 1873
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1874
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1875
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1876
+	PageRank Score: 2.274733047316931E-4
+Document ID: 1877
+	PageRank Score: 5.645222031054181E-4
+Document ID: 1878
+	PageRank Score: 2.8220562725984926E-4
+Document ID: 1879
+	PageRank Score: 5.191667203849272E-4
+Document ID: 1880
+	PageRank Score: 1.6755604020912235E-4
+Document ID: 1881
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1882
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1883
+	PageRank Score: 2.86822969252691E-4
+Document ID: 1884
+	PageRank Score: 3.3964759411423496E-4
+Document ID: 1885
+	PageRank Score: 2.3587373033689157E-4
+Document ID: 1886
+	PageRank Score: 2.5133128810178704E-4
+Document ID: 1887
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1888
+	PageRank Score: 3.097282273424647E-4
+Document ID: 1889
+	PageRank Score: 3.097282273424648E-4
+Document ID: 1890
+	PageRank Score: 3.0972822734247183E-4
+Document ID: 1891
+	PageRank Score: 1.9307855014231482E-4
+Document ID: 1892
+	PageRank Score: 3.6286731886176984E-4
+Document ID: 1893
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1894
+	PageRank Score: 2.7306571926730594E-4
+Document ID: 1895
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1896
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1897
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1898
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1899
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1900
+	PageRank Score: 3.965710499002372E-4
+Document ID: 1901
+	PageRank Score: 6.685932495033694E-4
+Document ID: 1902
+	PageRank Score: 2.510788506648353E-4
+Document ID: 1903
+	PageRank Score: 2.555048877545119E-4
+Document ID: 1904
+	PageRank Score: 3.097282273424648E-4
+Document ID: 1905
+	PageRank Score: 3.097282273424656E-4
+Document ID: 1906
+	PageRank Score: 1.6011318256616697E-4
+Document ID: 1907
+	PageRank Score: 3.0972822734246565E-4
+Document ID: 1908
+	PageRank Score: 4.4806760551316453E-4
+Document ID: 1909
+	PageRank Score: 5.118027039936481E-4
+Document ID: 1910
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1911
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1912
+	PageRank Score: 2.1810854173295922E-4
+Document ID: 1913
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1914
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1915
+	PageRank Score: 3.2866529376016226E-4
+Document ID: 1916
+	PageRank Score: 3.426544461360951E-4
+Document ID: 1917
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1918
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1919
+	PageRank Score: 4.989033393398766E-4
+Document ID: 1920
+	PageRank Score: 2.9547957943123354E-4
+Document ID: 1921
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1922
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1923
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1924
+	PageRank Score: 3.294915184575366E-4
+Document ID: 1925
+	PageRank Score: 3.848254799181114E-4
+Document ID: 1926
+	PageRank Score: 1.8953238837490576E-4
+Document ID: 1927
+	PageRank Score: 3.019964663505158E-4
+Document ID: 1928
+	PageRank Score: 3.1330006290076134E-4
+Document ID: 1929
+	PageRank Score: 2.5869127610327557E-4
+Document ID: 1930
+	PageRank Score: 2.3720186259256447E-4
+Document ID: 1931
+	PageRank Score: 2.61273923478251E-4
+Document ID: 1932
+	PageRank Score: 5.236006422593531E-4
+Document ID: 1933
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 1934
+	PageRank Score: 1.9289877789592375E-4
+Document ID: 1935
+	PageRank Score: 4.060790540412384E-4
+Document ID: 1936
+	PageRank Score: 4.4604303037228896E-4
+Document ID: 1937
+	PageRank Score: 2.1387001799571872E-4
+Document ID: 1938
+	PageRank Score: 3.1945683894532914E-4
+Document ID: 1939
+	PageRank Score: 3.5708569788386386E-4
+Document ID: 1940
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1941
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 1942
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1943
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1944
+	PageRank Score: 3.1660460872680085E-4
+Document ID: 1945
+	PageRank Score: 0.001716684553851607
+Document ID: 1946
+	PageRank Score: 6.689841552551594E-4
+Document ID: 1947
+	PageRank Score: 6.761814745397938E-4
+Document ID: 1948
+	PageRank Score: 3.6076517858166154E-4
+Document ID: 1949
+	PageRank Score: 2.564402537266405E-4
+Document ID: 1950
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 1951
+	PageRank Score: 3.2358254333329594E-4
+Document ID: 1952
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1953
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1954
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1955
+	PageRank Score: 3.649951218433044E-4
+Document ID: 1956
+	PageRank Score: 2.1267083937181387E-4
+Document ID: 1957
+	PageRank Score: 2.292153616684175E-4
+Document ID: 1958
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1959
+	PageRank Score: 2.7098480830308483E-4
+Document ID: 1960
+	PageRank Score: 2.816460726838191E-4
+Document ID: 1961
+	PageRank Score: 4.6311173232545147E-4
+Document ID: 1962
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1963
+	PageRank Score: 4.723982461063446E-4
+Document ID: 1964
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1965
+	PageRank Score: 2.713394998994778E-4
+Document ID: 1966
+	PageRank Score: 3.097282273424649E-4
+Document ID: 1967
+	PageRank Score: 2.4825070790432743E-4
+Document ID: 1968
+	PageRank Score: 2.895270602373127E-4
+Document ID: 1969
+	PageRank Score: 3.887161945717441E-4
+Document ID: 1970
+	PageRank Score: 3.097282273424648E-4
+Document ID: 1971
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1972
+	PageRank Score: 5.474842729172914E-4
+Document ID: 1973
+	PageRank Score: 5.456080581497883E-4
+Document ID: 1974
+	PageRank Score: 2.0843665792105636E-4
+Document ID: 1975
+	PageRank Score: 3.9328383128230625E-4
+Document ID: 1976
+	PageRank Score: 4.63680544124555E-4
+Document ID: 1977
+	PageRank Score: 3.097282273424693E-4
+Document ID: 1978
+	PageRank Score: 4.5169131219596504E-4
+Document ID: 1979
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1980
+	PageRank Score: 1.6755604020912218E-4
+Document ID: 1981
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 1982
+	PageRank Score: 4.043717516160118E-4
+Document ID: 1983
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1984
+	PageRank Score: 3.097282273424648E-4
+Document ID: 1985
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1986
+	PageRank Score: 1.9710806428747412E-4
+Document ID: 1987
+	PageRank Score: 6.276592806180179E-4
+Document ID: 1988
+	PageRank Score: 3.3179461605975443E-4
+Document ID: 1989
+	PageRank Score: 5.548937215284319E-4
+Document ID: 1990
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1991
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1992
+	PageRank Score: 2.5263635215822693E-4
+Document ID: 1993
+	PageRank Score: 3.097282273424648E-4
+Document ID: 1994
+	PageRank Score: 1.5227542882794256E-4
+Document ID: 1995
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1996
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 1997
+	PageRank Score: 3.383031745126872E-4
+Document ID: 1998
+	PageRank Score: 3.097282273424648E-4
+Document ID: 1999
+	PageRank Score: 2.1004330679283455E-4
+Document ID: 2000
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2001
+	PageRank Score: 3.097282273424647E-4
+Document ID: 2002
+	PageRank Score: 2.6722529550857193E-4
+Document ID: 2003
+	PageRank Score: 3.867724643253419E-4
+Document ID: 2004
+	PageRank Score: 4.486195101042037E-4
+Document ID: 2005
+	PageRank Score: 3.097282273424646E-4
+Document ID: 2006
+	PageRank Score: 3.097282273424647E-4
+Document ID: 2007
+	PageRank Score: 3.097282273424647E-4
+Document ID: 2008
+	PageRank Score: 3.097282273424647E-4
+Document ID: 2009
+	PageRank Score: 3.097282273424646E-4
+Document ID: 2010
+	PageRank Score: 3.097282273424646E-4
+Document ID: 2011
+	PageRank Score: 2.7133949989947674E-4
+Document ID: 2012
+	PageRank Score: 3.865056822284463E-4
+Document ID: 2013
+	PageRank Score: 2.713394998994767E-4
+Document ID: 2014
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2015
+	PageRank Score: 2.8371996881919087E-4
+Document ID: 2016
+	PageRank Score: 2.7513344716876127E-4
+Document ID: 2017
+	PageRank Score: 0.0014664101912729062
+Document ID: 2018
+	PageRank Score: 3.3197313396602816E-4
+Document ID: 2019
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2020
+	PageRank Score: 2.8522801704795067E-4
+Document ID: 2021
+	PageRank Score: 1.679989988215923E-4
+Document ID: 2022
+	PageRank Score: 1.816966505165715E-4
+Document ID: 2023
+	PageRank Score: 1.949722684681913E-4
+Document ID: 2024
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2025
+	PageRank Score: 1.7985069649479866E-4
+Document ID: 2026
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2027
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2028
+	PageRank Score: 2.8961005466334036E-4
+Document ID: 2029
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2030
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2031
+	PageRank Score: 5.629683342665238E-4
+Document ID: 2032
+	PageRank Score: 1.9192738587653078E-4
+Document ID: 2033
+	PageRank Score: 3.240029547944605E-4
+Document ID: 2034
+	PageRank Score: 5.065173179589097E-4
+Document ID: 2035
+	PageRank Score: 2.1964366584337685E-4
+Document ID: 2036
+	PageRank Score: 1.863850944738401E-4
+Document ID: 2037
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2038
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2039
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2040
+	PageRank Score: 5.309196881524492E-4
+Document ID: 2041
+	PageRank Score: 1.6866931049278243E-4
+Document ID: 2042
+	PageRank Score: 3.220871794104938E-4
+Document ID: 2043
+	PageRank Score: 2.1148722402414895E-4
+Document ID: 2044
+	PageRank Score: 4.272518249439634E-4
+Document ID: 2045
+	PageRank Score: 3.0445539378361094E-4
+Document ID: 2046
+	PageRank Score: 0.0011380664992568098
+Document ID: 2047
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2048
+	PageRank Score: 2.900608639085338E-4
+Document ID: 2049
+	PageRank Score: 3.1420538100861405E-4
+Document ID: 2050
+	PageRank Score: 1.7198070448750166E-4
+Document ID: 2051
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2052
+	PageRank Score: 4.5583683953405544E-4
+Document ID: 2053
+	PageRank Score: 5.183690119448807E-4
+Document ID: 2054
+	PageRank Score: 2.1024236465939626E-4
+Document ID: 2055
+	PageRank Score: 2.7747723428353917E-4
+Document ID: 2056
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2057
+	PageRank Score: 3.4916119052685586E-4
+Document ID: 2058
+	PageRank Score: 2.748098940094654E-4
+Document ID: 2059
+	PageRank Score: 2.0031157129474537E-4
+Document ID: 2060
+	PageRank Score: 7.30359087971535E-4
+Document ID: 2061
+	PageRank Score: 3.789229366495048E-4
+Document ID: 2062
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2063
+	PageRank Score: 3.0972822734246473E-4
+Document ID: 2064
+	PageRank Score: 3.097282273424667E-4
+Document ID: 2065
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2066
+	PageRank Score: 3.8650568222844744E-4
+Document ID: 2067
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2068
+	PageRank Score: 1.9282865604036E-4
+Document ID: 2069
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2070
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2071
+	PageRank Score: 2.5267996668755456E-4
+Document ID: 2072
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2073
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2074
+	PageRank Score: 4.7573632612780324E-4
+Document ID: 2075
+	PageRank Score: 3.0475364393742053E-4
+Document ID: 2076
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2077
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2078
+	PageRank Score: 3.097282273424677E-4
+Document ID: 2079
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2080
+	PageRank Score: 5.567939208559178E-4
+Document ID: 2081
+	PageRank Score: 3.1424119832334444E-4
+Document ID: 2082
+	PageRank Score: 2.737170660057038E-4
+Document ID: 2083
+	PageRank Score: 2.0897253716901983E-4
+Document ID: 2084
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2085
+	PageRank Score: 2.113686985030108E-4
+Document ID: 2086
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2087
+	PageRank Score: 2.427867367602064E-4
+Document ID: 2088
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2089
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2090
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2091
+	PageRank Score: 2.315979760882395E-4
+Document ID: 2092
+	PageRank Score: 2.3811575130383702E-4
+Document ID: 2093
+	PageRank Score: 5.095382465958846E-4
+Document ID: 2094
+	PageRank Score: 4.0259447534414744E-4
+Document ID: 2095
+	PageRank Score: 4.295341305427247E-4
+Document ID: 2096
+	PageRank Score: 2.675462947896677E-4
+Document ID: 2097
+	PageRank Score: 2.611368779325169E-4
+Document ID: 2098
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2099
+	PageRank Score: 3.7362721714280083E-4
+Document ID: 2100
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2101
+	PageRank Score: 2.5550488775451333E-4
+Document ID: 2102
+	PageRank Score: 2.555048877545134E-4
+Document ID: 2103
+	PageRank Score: 3.0972822734247015E-4
+Document ID: 2104
+	PageRank Score: 3.097282273424663E-4
+Document ID: 2105
+	PageRank Score: 1.9627652330011527E-4
+Document ID: 2106
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2107
+	PageRank Score: 7.744436377577834E-4
+Document ID: 2108
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2109
+	PageRank Score: 5.046164362020117E-4
+Document ID: 2110
+	PageRank Score: 4.90096722336667E-4
+Document ID: 2111
+	PageRank Score: 5.453503869968996E-4
+Document ID: 2112
+	PageRank Score: 1.58936717196795E-4
+Document ID: 2113
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2114
+	PageRank Score: 2.724927912307449E-4
+Document ID: 2115
+	PageRank Score: 3.1695503759910255E-4
+Document ID: 2116
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2117
+	PageRank Score: 3.097282273424651E-4
+Document ID: 2118
+	PageRank Score: 1.6898355375414127E-4
+Document ID: 2119
+	PageRank Score: 4.0155345088802166E-4
+Document ID: 2120
+	PageRank Score: 3.9034361783086695E-4
+Document ID: 2121
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2122
+	PageRank Score: 2.8417083454153574E-4
+Document ID: 2123
+	PageRank Score: 2.1655921384810278E-4
+Document ID: 2124
+	PageRank Score: 3.0972822734246826E-4
+Document ID: 2125
+	PageRank Score: 1.9830367242758664E-4
+Document ID: 2126
+	PageRank Score: 4.061383804497221E-4
+Document ID: 2127
+	PageRank Score: 6.158422755451369E-4
+Document ID: 2128
+	PageRank Score: 1.7650665045652558E-4
+Document ID: 2129
+	PageRank Score: 4.2352421387167996E-4
+Document ID: 2130
+	PageRank Score: 2.447768438975273E-4
+Document ID: 2131
+	PageRank Score: 2.7133949989947685E-4
+Document ID: 2132
+	PageRank Score: 2.713394998994768E-4
+Document ID: 2133
+	PageRank Score: 3.097282273424638E-4
+Document ID: 2134
+	PageRank Score: 3.097282273424638E-4
+Document ID: 2135
+	PageRank Score: 3.865056822284466E-4
+Document ID: 2136
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2137
+	PageRank Score: 2.075969603157913E-4
+Document ID: 2138
+	PageRank Score: 6.335896131113284E-4
+Document ID: 2139
+	PageRank Score: 3.8028333900679825E-4
+Document ID: 2140
+	PageRank Score: 1.7933469445766373E-4
+Document ID: 2141
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2142
+	PageRank Score: 3.607651785816601E-4
+Document ID: 2143
+	PageRank Score: 3.097282273424674E-4
+Document ID: 2144
+	PageRank Score: 2.201240870389117E-4
+Document ID: 2145
+	PageRank Score: 3.097282273424651E-4
+Document ID: 2146
+	PageRank Score: 3.2449565751287694E-4
+Document ID: 2147
+	PageRank Score: 2.0626236420133445E-4
+Document ID: 2148
+	PageRank Score: 2.359115609139465E-4
+Document ID: 2149
+	PageRank Score: 2.3750471918208878E-4
+Document ID: 2150
+	PageRank Score: 6.532820165353118E-4
+Document ID: 2151
+	PageRank Score: 3.996992627865214E-4
+Document ID: 2152
+	PageRank Score: 1.9787252555317753E-4
+Document ID: 2153
+	PageRank Score: 2.101580201669301E-4
+Document ID: 2154
+	PageRank Score: 3.3262747312468434E-4
+Document ID: 2155
+	PageRank Score: 4.2027930253504115E-4
+Document ID: 2156
+	PageRank Score: 2.173007081794675E-4
+Document ID: 2157
+	PageRank Score: 3.09728227342466E-4
+Document ID: 2158
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2159
+	PageRank Score: 2.7007049350840793E-4
+Document ID: 2160
+	PageRank Score: 2.670035602094508E-4
+Document ID: 2161
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2162
+	PageRank Score: 1.867457737503724E-4
+Document ID: 2163
+	PageRank Score: 4.111456727903661E-4
+Document ID: 2164
+	PageRank Score: 2.3201710808649955E-4
+Document ID: 2165
+	PageRank Score: 2.971702957319711E-4
+Document ID: 2166
+	PageRank Score: 2.016385387598829E-4
+Document ID: 2167
+	PageRank Score: 5.829981138283358E-4
+Document ID: 2168
+	PageRank Score: 3.0842853633229696E-4
+Document ID: 2169
+	PageRank Score: 1.777098990686266E-4
+Document ID: 2170
+	PageRank Score: 4.052502358620031E-4
+Document ID: 2171
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2172
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2173
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2174
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2175
+	PageRank Score: 3.789203173400526E-4
+Document ID: 2176
+	PageRank Score: 2.0254107553983297E-4
+Document ID: 2177
+	PageRank Score: 3.1321366529507403E-4
+Document ID: 2178
+	PageRank Score: 3.4430304761778007E-4
+Document ID: 2179
+	PageRank Score: 5.449501252085461E-4
+Document ID: 2180
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2181
+	PageRank Score: 2.572208514031523E-4
+Document ID: 2182
+	PageRank Score: 2.6721871707917046E-4
+Document ID: 2183
+	PageRank Score: 2.359574951067957E-4
+Document ID: 2184
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2185
+	PageRank Score: 2.981740100863949E-4
+Document ID: 2186
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2187
+	PageRank Score: 2.4558773613815685E-4
+Document ID: 2188
+	PageRank Score: 2.0349907910255548E-4
+Document ID: 2189
+	PageRank Score: 5.077871735196961E-4
+Document ID: 2190
+	PageRank Score: 3.8650568222845053E-4
+Document ID: 2191
+	PageRank Score: 1.9825960010157743E-4
+Document ID: 2192
+	PageRank Score: 3.2583986271966797E-4
+Document ID: 2193
+	PageRank Score: 2.685164534926417E-4
+Document ID: 2194
+	PageRank Score: 2.6484849225455237E-4
+Document ID: 2195
+	PageRank Score: 3.0039574588509784E-4
+Document ID: 2196
+	PageRank Score: 3.097282273424653E-4
+Document ID: 2197
+	PageRank Score: 3.097282273424653E-4
+Document ID: 2198
+	PageRank Score: 2.098927576336233E-4
+Document ID: 2199
+	PageRank Score: 3.097282273424653E-4
+Document ID: 2200
+	PageRank Score: 2.713394998994793E-4
+Document ID: 2201
+	PageRank Score: 3.097282273424653E-4
+Document ID: 2202
+	PageRank Score: 2.0806858810416175E-4
+Document ID: 2203
+	PageRank Score: 8.758407583390925E-4
+Document ID: 2204
+	PageRank Score: 4.3896270758572633E-4
+Document ID: 2205
+	PageRank Score: 3.0972822734246706E-4
+Document ID: 2206
+	PageRank Score: 3.0972822734246533E-4
+Document ID: 2207
+	PageRank Score: 3.0972822734246706E-4
+Document ID: 2208
+	PageRank Score: 3.0972822734246533E-4
+Document ID: 2209
+	PageRank Score: 2.8491992033226907E-4
+Document ID: 2210
+	PageRank Score: 2.7266433862368935E-4
+Document ID: 2211
+	PageRank Score: 3.3494020288836094E-4
+Document ID: 2212
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2213
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2214
+	PageRank Score: 2.6363098498114027E-4
+Document ID: 2215
+	PageRank Score: 3.102416639703831E-4
+Document ID: 2216
+	PageRank Score: 2.8802024738106496E-4
+Document ID: 2217
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2218
+	PageRank Score: 5.515064555169243E-4
+Document ID: 2219
+	PageRank Score: 3.812292503973033E-4
+Document ID: 2220
+	PageRank Score: 5.489921401013127E-4
+Document ID: 2221
+	PageRank Score: 2.5030538478209473E-4
+Document ID: 2222
+	PageRank Score: 4.1641157667357575E-4
+Document ID: 2223
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2224
+	PageRank Score: 3.097282273424689E-4
+Document ID: 2225
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2226
+	PageRank Score: 3.6076517858166235E-4
+Document ID: 2227
+	PageRank Score: 4.387063410810509E-4
+Document ID: 2228
+	PageRank Score: 4.6017886272317393E-4
+Document ID: 2229
+	PageRank Score: 2.146764530005976E-4
+Document ID: 2230
+	PageRank Score: 2.58745745189554E-4
+Document ID: 2231
+	PageRank Score: 3.607651785816608E-4
+Document ID: 2232
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2233
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2234
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2235
+	PageRank Score: 3.097282273424651E-4
+Document ID: 2236
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2237
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2238
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2239
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2240
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2241
+	PageRank Score: 3.097282273424652E-4
+Document ID: 2242
+	PageRank Score: 3.097282273424651E-4
+Document ID: 2243
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2244
+	PageRank Score: 3.097282273424651E-4
+Document ID: 2245
+	PageRank Score: 3.562573140359504E-4
+Document ID: 2246
+	PageRank Score: 3.0972822734246517E-4
+Document ID: 2247
+	PageRank Score: 3.8393100901193194E-4
+Document ID: 2248
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2249
+	PageRank Score: 2.3820804756417453E-4
+Document ID: 2250
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2251
+	PageRank Score: 3.7650110800197255E-4
+Document ID: 2252
+	PageRank Score: 2.730211405995105E-4
+Document ID: 2253
+	PageRank Score: 2.7277840179812965E-4
+Document ID: 2254
+	PageRank Score: 2.3678085721121552E-4
+Document ID: 2255
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2256
+	PageRank Score: 2.3633740603643222E-4
+Document ID: 2257
+	PageRank Score: 3.077545689191419E-4
+Document ID: 2258
+	PageRank Score: 1.6225015341642983E-4
+Document ID: 2259
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2260
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2261
+	PageRank Score: 3.0972822734246847E-4
+Document ID: 2262
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2263
+	PageRank Score: 2.496549196898023E-4
+Document ID: 2264
+	PageRank Score: 1.7993820292270423E-4
+Document ID: 2265
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2266
+	PageRank Score: 3.097282273424682E-4
+Document ID: 2267
+	PageRank Score: 3.097282273424671E-4
+Document ID: 2268
+	PageRank Score: 2.7133949989947934E-4
+Document ID: 2269
+	PageRank Score: 2.2123620999874401E-4
+Document ID: 2270
+	PageRank Score: 3.0451905594063857E-4
+Document ID: 2271
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2272
+	PageRank Score: 2.6914813721357604E-4
+Document ID: 2273
+	PageRank Score: 3.047330859225688E-4
+Document ID: 2274
+	PageRank Score: 2.161661424208676E-4
+Document ID: 2275
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2276
+	PageRank Score: 3.42545076054987E-4
+Document ID: 2277
+	PageRank Score: 3.103668820723855E-4
+Document ID: 2278
+	PageRank Score: 1.7364037533829573E-4
+Document ID: 2279
+	PageRank Score: 2.586912761032779E-4
+Document ID: 2280
+	PageRank Score: 2.007159675836695E-4
+Document ID: 2281
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2282
+	PageRank Score: 2.764197590404963E-4
+Document ID: 2283
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2284
+	PageRank Score: 3.097282273424651E-4
+Document ID: 2285
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2286
+	PageRank Score: 3.2495412388755914E-4
+Document ID: 2287
+	PageRank Score: 2.2326324755771792E-4
+Document ID: 2288
+	PageRank Score: 2.7133949989947755E-4
+Document ID: 2289
+	PageRank Score: 2.701655248128428E-4
+Document ID: 2290
+	PageRank Score: 1.7323804588982244E-4
+Document ID: 2291
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2292
+	PageRank Score: 2.3548012974958184E-4
+Document ID: 2293
+	PageRank Score: 3.09728227342466E-4
+Document ID: 2294
+	PageRank Score: 1.9841357861193689E-4
+Document ID: 2295
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2296
+	PageRank Score: 2.2798505881032685E-4
+Document ID: 2297
+	PageRank Score: 2.048692690917027E-4
+Document ID: 2298
+	PageRank Score: 1.7666682635075968E-4
+Document ID: 2299
+	PageRank Score: 2.134400977873649E-4
+Document ID: 2300
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2301
+	PageRank Score: 2.7133949989947766E-4
+Document ID: 2302
+	PageRank Score: 2.090266777437873E-4
+Document ID: 2303
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2304
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2305
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2306
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2307
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2308
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2309
+	PageRank Score: 2.7470713501851873E-4
+Document ID: 2310
+	PageRank Score: 1.8180387305194394E-4
+Document ID: 2311
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2312
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2313
+	PageRank Score: 2.519152492837059E-4
+Document ID: 2314
+	PageRank Score: 3.452321917866417E-4
+Document ID: 2315
+	PageRank Score: 3.729319418209067E-4
+Document ID: 2316
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2317
+	PageRank Score: 5.09036057617199E-4
+Document ID: 2318
+	PageRank Score: 1.976508984690193E-4
+Document ID: 2319
+	PageRank Score: 6.392184391295025E-4
+Document ID: 2320
+	PageRank Score: 2.3887959357547594E-4
+Document ID: 2321
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2322
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2323
+	PageRank Score: 3.010298927439616E-4
+Document ID: 2324
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2325
+	PageRank Score: 1.5992499954041334E-4
+Document ID: 2326
+	PageRank Score: 4.584627461283137E-4
+Document ID: 2327
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2328
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2329
+	PageRank Score: 2.516770753144851E-4
+Document ID: 2330
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2331
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2332
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2333
+	PageRank Score: 4.014236820912486E-4
+Document ID: 2334
+	PageRank Score: 3.097282273424695E-4
+Document ID: 2335
+	PageRank Score: 2.229871082038494E-4
+Document ID: 2336
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2337
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2338
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2339
+	PageRank Score: 3.191385320606335E-4
+Document ID: 2340
+	PageRank Score: 4.1470160068906496E-4
+Document ID: 2341
+	PageRank Score: 3.7995713828016547E-4
+Document ID: 2342
+	PageRank Score: 2.3053680308006414E-4
+Document ID: 2343
+	PageRank Score: 3.046796676611404E-4
+Document ID: 2344
+	PageRank Score: 2.3852276027922918E-4
+Document ID: 2345
+	PageRank Score: 5.028683077686646E-4
+Document ID: 2346
+	PageRank Score: 2.713394998994817E-4
+Document ID: 2347
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2348
+	PageRank Score: 2.594262471761469E-4
+Document ID: 2349
+	PageRank Score: 7.941377546316145E-4
+Document ID: 2350
+	PageRank Score: 2.9326810563917445E-4
+Document ID: 2351
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2352
+	PageRank Score: 2.298200854975501E-4
+Document ID: 2353
+	PageRank Score: 2.2982008549755009E-4
+Document ID: 2354
+	PageRank Score: 4.947159897637792E-4
+Document ID: 2355
+	PageRank Score: 6.264663851927195E-4
+Document ID: 2356
+	PageRank Score: 6.282898821814122E-4
+Document ID: 2357
+	PageRank Score: 3.743436427830356E-4
+Document ID: 2358
+	PageRank Score: 4.7920373143767425E-4
+Document ID: 2359
+	PageRank Score: 1.8854473723897466E-4
+Document ID: 2360
+	PageRank Score: 3.077545689191419E-4
+Document ID: 2361
+	PageRank Score: 1.5561814150239674E-4
+Document ID: 2362
+	PageRank Score: 1.8220608067166653E-4
+Document ID: 2363
+	PageRank Score: 3.0972822734246695E-4
+Document ID: 2364
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2365
+	PageRank Score: 4.0901140565931883E-4
+Document ID: 2366
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2367
+	PageRank Score: 1.7013692694009942E-4
+Document ID: 2368
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2369
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2370
+	PageRank Score: 3.0972822734246923E-4
+Document ID: 2371
+	PageRank Score: 2.2957404306717764E-4
+Document ID: 2372
+	PageRank Score: 1.653909165765919E-4
+Document ID: 2373
+	PageRank Score: 6.554328013272415E-4
+Document ID: 2374
+	PageRank Score: 3.9299281918078245E-4
+Document ID: 2375
+	PageRank Score: 3.2848834925173006E-4
+Document ID: 2376
+	PageRank Score: 3.5182274996671027E-4
+Document ID: 2377
+	PageRank Score: 4.6866861595468146E-4
+Document ID: 2378
+	PageRank Score: 1.982892677921968E-4
+Document ID: 2379
+	PageRank Score: 3.273292698408286E-4
+Document ID: 2380
+	PageRank Score: 4.175554569297803E-4
+Document ID: 2381
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2382
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2383
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2384
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2385
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2386
+	PageRank Score: 3.0972822734246506E-4
+Document ID: 2387
+	PageRank Score: 3.7704741217183755E-4
+Document ID: 2388
+	PageRank Score: 4.0800877172452897E-4
+Document ID: 2389
+	PageRank Score: 3.097282273424677E-4
+Document ID: 2390
+	PageRank Score: 3.097282273424655E-4
+Document ID: 2391
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2392
+	PageRank Score: 2.7586365602486567E-4
+Document ID: 2393
+	PageRank Score: 3.485269689699444E-4
+Document ID: 2394
+	PageRank Score: 4.7239824610633937E-4
+Document ID: 2395
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2396
+	PageRank Score: 3.373032518905279E-4
+Document ID: 2397
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2398
+	PageRank Score: 2.1711235275098708E-4
+Document ID: 2399
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2400
+	PageRank Score: 3.0972822734246685E-4
+Document ID: 2401
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2402
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2403
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2404
+	PageRank Score: 2.2938525837214944E-4
+Document ID: 2405
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2406
+	PageRank Score: 2.3236048875432936E-4
+Document ID: 2407
+	PageRank Score: 3.081997091687387E-4
+Document ID: 2408
+	PageRank Score: 3.0972822734246495E-4
+Document ID: 2409
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2410
+	PageRank Score: 3.09728227342465E-4
+Document ID: 2411
+	PageRank Score: 2.087138943857363E-4
+Document ID: 2412
+	PageRank Score: 1.8100374269662585E-4
+Document ID: 2413
+	PageRank Score: 1.9403460091963105E-4
+Document ID: 2414
+	PageRank Score: 3.097282273424649E-4
+Document ID: 2415
+	PageRank Score: 2.9444093991825925E-4
+Document ID: 2416
+	PageRank Score: 2.748098940094654E-4
+Document ID: 2417
+	PageRank Score: 3.5592648177961626E-4
+Document ID: 2418
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2419
+	PageRank Score: 3.097282273424675E-4
+Document ID: 2420
+	PageRank Score: 1.7419841864048561E-4
+Document ID: 2421
+	PageRank Score: 3.0990305657717235E-4
+Document ID: 2422
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2423
+	PageRank Score: 2.849032993618454E-4
+Document ID: 2424
+	PageRank Score: 1.5622773202257016E-4
+Document ID: 2425
+	PageRank Score: 2.0540878673595974E-4
+Document ID: 2426
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2427
+	PageRank Score: 3.181809574928789E-4
+Document ID: 2428
+	PageRank Score: 3.0972822734246484E-4
+Document ID: 2429
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2430
+	PageRank Score: 2.1793835984558973E-4
+Document ID: 2431
+	PageRank Score: 3.097282273424648E-4
+Document ID: 2432
+	PageRank Score: 2.0100339382969423E-4
+Document ID: 2433
+	PageRank Score: 2.3964571583626597E-4
+Document ID: 2434
+	PageRank Score: 1.6309965548915633E-4
+Document ID: 2435
+	PageRank Score: 4.2985678002865956E-4
+Document ID: 2436
+	PageRank Score: 3.6056225481096517E-4
+Document ID: 2437
+	PageRank Score: 1.622501534164298E-4
+Document ID: 2438
+	PageRank Score: 4.683500894580885E-4
+Document ID: 2439
+	PageRank Score: 3.097282273424646E-4
+Document ID: 2440
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2441
+	PageRank Score: 3.097282273424646E-4
+Document ID: 2442
+	PageRank Score: 3.097282273424646E-4
+Document ID: 2443
+	PageRank Score: 3.0972822734247585E-4
+Document ID: 2444
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2445
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2446
+	PageRank Score: 3.097282273424645E-4
+Document ID: 2447
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 2448
+	PageRank Score: 3.097282273424645E-4
+Document ID: 2449
+	PageRank Score: 3.0972822734246636E-4
+Document ID: 2450
+	PageRank Score: 1.9654432892041352E-4
+Document ID: 2451
+	PageRank Score: 4.2485777606900615E-4
+Document ID: 2452
+	PageRank Score: 4.1286763787651883E-4
+Document ID: 2453
+	PageRank Score: 3.453423061772888E-4
+Document ID: 2454
+	PageRank Score: 3.2098924215654486E-4
+Document ID: 2455
+	PageRank Score: 3.751861024938344E-4
+Document ID: 2456
+	PageRank Score: 2.5908023547340886E-4
+Document ID: 2457
+	PageRank Score: 4.314921033617524E-4
+Document ID: 2458
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2459
+	PageRank Score: 2.7133949989948227E-4
+Document ID: 2460
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2461
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2462
+	PageRank Score: 3.097282273424645E-4
+Document ID: 2463
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2464
+	PageRank Score: 3.097282273424645E-4
+Document ID: 2465
+	PageRank Score: 3.0972822734246446E-4
+Document ID: 2466
+	PageRank Score: 3.0445539378361094E-4
+Document ID: 2467
+	PageRank Score: 2.7133949989947994E-4
+Document ID: 2468
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 2469
+	PageRank Score: 3.097282273424644E-4
+Document ID: 2470
+	PageRank Score: 3.3154277094523207E-4
+Document ID: 2471
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 2472
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 2473
+	PageRank Score: 3.097282273424644E-4
+Document ID: 2474
+	PageRank Score: 3.0972822734246706E-4
+Document ID: 2475
+	PageRank Score: 3.097282273424643E-4
+Document ID: 2476
+	PageRank Score: 3.097282273424644E-4
+Document ID: 2477
+	PageRank Score: 2.966400889666434E-4
+Document ID: 2478
+	PageRank Score: 3.140750631176572E-4
+Document ID: 2479
+	PageRank Score: 2.981715400101771E-4
+Document ID: 2480
+	PageRank Score: 2.4283049207996947E-4
+Document ID: 2481
+	PageRank Score: 1.7121710444578095E-4
+Document ID: 2482
+	PageRank Score: 2.3721596821920838E-4
+Document ID: 2483
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 2484
+	PageRank Score: 3.097282273424642E-4
+Document ID: 2485
+	PageRank Score: 4.928984920309261E-4
+Document ID: 2486
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 2487
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 2488
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 2489
+	PageRank Score: 3.097282273424663E-4
+Document ID: 2490
+	PageRank Score: 2.3535463416444495E-4
+Document ID: 2491
+	PageRank Score: 2.684374212047792E-4
+Document ID: 2492
+	PageRank Score: 1.5601908349571463E-4
+Document ID: 2493
+	PageRank Score: 2.9251626481386153E-4
+Document ID: 2494
+	PageRank Score: 3.097282273424642E-4
+Document ID: 2495
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 2496
+	PageRank Score: 3.0468720420633006E-4
+Document ID: 2497
+	PageRank Score: 2.1165260781907982E-4
+Document ID: 2498
+	PageRank Score: 1.9353473405475031E-4
+Document ID: 2499
+	PageRank Score: 2.2594840736778863E-4
+Document ID: 2500
+	PageRank Score: 1.6663728893555915E-4
+Document ID: 2501
+	PageRank Score: 2.758785977379197E-4
+Document ID: 2502
+	PageRank Score: 3.0972822734246424E-4
+Document ID: 2503
+	PageRank Score: 3.097282273424642E-4
+Document ID: 2504
+	PageRank Score: 3.097282273424643E-4
+Document ID: 2505
+	PageRank Score: 3.5459464959629354E-4
+Document ID: 2506
+	PageRank Score: 1.7985069649479845E-4
+Document ID: 2507
+	PageRank Score: 3.097282273424642E-4
+Document ID: 2508
+	PageRank Score: 3.097282273424642E-4
+Document ID: 2509
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 2510
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2511
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 2512
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2513
+	PageRank Score: 2.180716877965894E-4
+Document ID: 2514
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2515
+	PageRank Score: 2.331799216766343E-4
+Document ID: 2516
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2517
+	PageRank Score: 3.0821503118991445E-4
+Document ID: 2518
+	PageRank Score: 1.853980177527878E-4
+Document ID: 2519
+	PageRank Score: 3.097282273424655E-4
+Document ID: 2520
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2521
+	PageRank Score: 4.784706774260871E-4
+Document ID: 2522
+	PageRank Score: 1.769797899027321E-4
+Document ID: 2523
+	PageRank Score: 3.097282273424663E-4
+Document ID: 2524
+	PageRank Score: 3.888182521911052E-4
+Document ID: 2525
+	PageRank Score: 3.097282273424714E-4
+Document ID: 2526
+	PageRank Score: 1.6708072152936892E-4
+Document ID: 2527
+	PageRank Score: 2.080685881041617E-4
+Document ID: 2528
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2529
+	PageRank Score: 2.586912761032769E-4
+Document ID: 2530
+	PageRank Score: 2.053747375968783E-4
+Document ID: 2531
+	PageRank Score: 3.097282273424654E-4
+Document ID: 2532
+	PageRank Score: 2.5760270913424796E-4
+Document ID: 2533
+	PageRank Score: 2.555048877545106E-4
+Document ID: 2534
+	PageRank Score: 6.445477550769293E-4
+Document ID: 2535
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2536
+	PageRank Score: 2.483948640489925E-4
+Document ID: 2537
+	PageRank Score: 3.487924798311172E-4
+Document ID: 2538
+	PageRank Score: 2.2510510256890098E-4
+Document ID: 2539
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2540
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2541
+	PageRank Score: 1.997415636094184E-4
+Document ID: 2542
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2543
+	PageRank Score: 4.7161430586772977E-4
+Document ID: 2544
+	PageRank Score: 3.392515067305313E-4
+Document ID: 2545
+	PageRank Score: 3.1944859711435374E-4
+Document ID: 2546
+	PageRank Score: 3.0368637676288885E-4
+Document ID: 2547
+	PageRank Score: 3.3361017041803355E-4
+Document ID: 2548
+	PageRank Score: 2.0091650861397666E-4
+Document ID: 2549
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 2550
+	PageRank Score: 2.985622133414353E-4
+Document ID: 2551
+	PageRank Score: 3.097282273424653E-4
+Document ID: 2552
+	PageRank Score: 3.1599650751567996E-4
+Document ID: 2553
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 2554
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2555
+	PageRank Score: 2.4323781033395712E-4
+Document ID: 2556
+	PageRank Score: 3.786004203171407E-4
+Document ID: 2557
+	PageRank Score: 3.3482525365345736E-4
+Document ID: 2558
+	PageRank Score: 3.17750930400042E-4
+Document ID: 2559
+	PageRank Score: 2.1385192890959682E-4
+Document ID: 2560
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2561
+	PageRank Score: 1.7300624873391898E-4
+Document ID: 2562
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2563
+	PageRank Score: 2.0901322711708705E-4
+Document ID: 2564
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2565
+	PageRank Score: 2.766085290502788E-4
+Document ID: 2566
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2567
+	PageRank Score: 3.865056822284554E-4
+Document ID: 2568
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2569
+	PageRank Score: 4.3164663591215604E-4
+Document ID: 2570
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2571
+	PageRank Score: 2.1284090405821282E-4
+Document ID: 2572
+	PageRank Score: 1.9984681860316894E-4
+Document ID: 2573
+	PageRank Score: 2.1247559883836304E-4
+Document ID: 2574
+	PageRank Score: 1.9120902301141945E-4
+Document ID: 2575
+	PageRank Score: 1.9625028421688974E-4
+Document ID: 2576
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2577
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2578
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2579
+	PageRank Score: 2.7047296121743937E-4
+Document ID: 2580
+	PageRank Score: 3.0972822734246414E-4
+Document ID: 2581
+	PageRank Score: 1.8441230015093E-4
+Document ID: 2582
+	PageRank Score: 3.2916655297954495E-4
+Document ID: 2583
+	PageRank Score: 2.0513608287893567E-4
+Document ID: 2584
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2585
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2586
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2587
+	PageRank Score: 2.713394998994748E-4
+Document ID: 2588
+	PageRank Score: 2.713394998994748E-4
+Document ID: 2589
+	PageRank Score: 3.097282273424728E-4
+Document ID: 2590
+	PageRank Score: 3.097282273424759E-4
+Document ID: 2591
+	PageRank Score: 3.0972822734246826E-4
+Document ID: 2592
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2593
+	PageRank Score: 2.0280714410309442E-4
+Document ID: 2594
+	PageRank Score: 3.6486193254214216E-4
+Document ID: 2595
+	PageRank Score: 2.888211507729694E-4
+Document ID: 2596
+	PageRank Score: 2.9943794608744894E-4
+Document ID: 2597
+	PageRank Score: 5.596237785316732E-4
+Document ID: 2598
+	PageRank Score: 4.4122057260751797E-4
+Document ID: 2599
+	PageRank Score: 3.0972822734246685E-4
+Document ID: 2600
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2601
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2602
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 2603
+	PageRank Score: 1.8548854132566708E-4
+Document ID: 2604
+	PageRank Score: 3.097282273424693E-4
+Document ID: 2605
+	PageRank Score: 2.8600173708837696E-4
+Document ID: 2606
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2607
+	PageRank Score: 3.3582826269648293E-4
+Document ID: 2608
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2609
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2610
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2611
+	PageRank Score: 3.0972822734246386E-4
+Document ID: 2612
+	PageRank Score: 3.8650568222844446E-4
+Document ID: 2613
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2614
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2615
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2616
+	PageRank Score: 2.9025556057478587E-4
+Document ID: 2617
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2618
+	PageRank Score: 3.349738701339805E-4
+Document ID: 2619
+	PageRank Score: 3.0959312793436177E-4
+Document ID: 2620
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2621
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2622
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2623
+	PageRank Score: 2.2976539453576294E-4
+Document ID: 2624
+	PageRank Score: 1.766668263507582E-4
+Document ID: 2625
+	PageRank Score: 4.720532233379207E-4
+Document ID: 2626
+	PageRank Score: 3.8044681201532374E-4
+Document ID: 2627
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2628
+	PageRank Score: 3.459594979192664E-4
+Document ID: 2629
+	PageRank Score: 6.523802312750162E-4
+Document ID: 2630
+	PageRank Score: 3.1036291978530153E-4
+Document ID: 2631
+	PageRank Score: 2.5760270913424796E-4
+Document ID: 2632
+	PageRank Score: 4.977324736623854E-4
+Document ID: 2633
+	PageRank Score: 2.9250311355590546E-4
+Document ID: 2634
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2635
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2636
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2637
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2638
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2639
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2640
+	PageRank Score: 1.867310096881024E-4
+Document ID: 2641
+	PageRank Score: 3.0972822734246695E-4
+Document ID: 2642
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2643
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 2644
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2645
+	PageRank Score: 2.4386257738489878E-4
+Document ID: 2646
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2647
+	PageRank Score: 3.097282273424671E-4
+Document ID: 2648
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2649
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2650
+	PageRank Score: 2.9539389035020163E-4
+Document ID: 2651
+	PageRank Score: 2.8372587879295087E-4
+Document ID: 2652
+	PageRank Score: 1.5992499954041185E-4
+Document ID: 2653
+	PageRank Score: 2.1646094916775776E-4
+Document ID: 2654
+	PageRank Score: 2.1646094916775776E-4
+Document ID: 2655
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2656
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2657
+	PageRank Score: 2.1573361852677043E-4
+Document ID: 2658
+	PageRank Score: 3.097282273424653E-4
+Document ID: 2659
+	PageRank Score: 3.0972822734246636E-4
+Document ID: 2660
+	PageRank Score: 3.097282273424682E-4
+Document ID: 2661
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2662
+	PageRank Score: 3.097282273424654E-4
+Document ID: 2663
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2664
+	PageRank Score: 2.695795110479129E-4
+Document ID: 2665
+	PageRank Score: 3.520968931953804E-4
+Document ID: 2666
+	PageRank Score: 3.0972822734246403E-4
+Document ID: 2667
+	PageRank Score: 2.788985814737055E-4
+Document ID: 2668
+	PageRank Score: 4.4476858439015027E-4
+Document ID: 2669
+	PageRank Score: 2.9499319572851766E-4
+Document ID: 2670
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2671
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2672
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2673
+	PageRank Score: 2.2123787156088688E-4
+Document ID: 2674
+	PageRank Score: 3.6491295174609297E-4
+Document ID: 2675
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2676
+	PageRank Score: 3.09728227342464E-4
+Document ID: 2677
+	PageRank Score: 1.9085175710862565E-4
+Document ID: 2678
+	PageRank Score: 3.097282273424639E-4
+Document ID: 2679
+	PageRank Score: 8.51150474592352E-4
+Document ID: 2680
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 2681
+	PageRank Score: 1.6299904207259298E-4
+Document ID: 2682
+	PageRank Score: 1.6516343534711796E-4
+Document ID: 2683
+	PageRank Score: 2.3638005202714286E-4
+Document ID: 2684
+	PageRank Score: 2.3621854977408694E-4
+Document ID: 2685
+	PageRank Score: 2.892599464974528E-4
+Document ID: 2686
+	PageRank Score: 3.0972822734246847E-4
+Document ID: 2687
+	PageRank Score: 3.6890240216183774E-4
+Document ID: 2688
+	PageRank Score: 2.5719640144310603E-4
+Document ID: 2689
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 2690
+	PageRank Score: 3.6369784523881927E-4
+Document ID: 2691
+	PageRank Score: 2.1213445839571098E-4
+Document ID: 2692
+	PageRank Score: 2.0257253847092002E-4
+Document ID: 2693
+	PageRank Score: 3.0451905594063857E-4
+Document ID: 2694
+	PageRank Score: 3.0972822734247286E-4
+Document ID: 2695
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 2696
+	PageRank Score: 2.4670370236934896E-4
+Document ID: 2697
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 2698
+	PageRank Score: 3.954653540751098E-4
+Document ID: 2699
+	PageRank Score: 3.097282273424638E-4
+Document ID: 2700
+	PageRank Score: 1.6830795029116076E-4
+Document ID: 2701
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 2702
+	PageRank Score: 3.0972822734246376E-4
+Document ID: 2703
+	PageRank Score: 2.7133949989947565E-4
+Document ID: 2704
+	PageRank Score: 4.725136472710562E-4
+Document ID: 2705
+	PageRank Score: 2.511810675779548E-4
+Document ID: 2706
+	PageRank Score: 3.0972822734246435E-4
+Document ID: 2707
+	PageRank Score: 2.2183376241665276E-4
+Document ID: 2708
+	PageRank Score: 4.368871072278599E-4
+Document ID: 2709
+	PageRank Score: 5.041837609872122E-4
+Document ID: 2710
+	PageRank Score: 3.2393667920208757E-4
+Document ID: 2711
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2712
+	PageRank Score: 1.9992214086254293E-4
+Document ID: 2713
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 2714
+	PageRank Score: 2.695795110479129E-4
+Document ID: 2715
+	PageRank Score: 3.3197313631935267E-4
+Document ID: 2716
+	PageRank Score: 2.1923845186340354E-4
+Document ID: 2717
+	PageRank Score: 2.3236048875432936E-4
+Document ID: 2718
+	PageRank Score: 2.667214667938502E-4
+Document ID: 2719
+	PageRank Score: 4.649876652129222E-4
+Document ID: 2720
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 2721
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 2722
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2723
+	PageRank Score: 6.200767330057426E-4
+Document ID: 2724
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2725
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2726
+	PageRank Score: 4.4162255190940405E-4
+Document ID: 2727
+	PageRank Score: 2.0330734285742825E-4
+Document ID: 2728
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2729
+	PageRank Score: 3.8650568222844793E-4
+Document ID: 2730
+	PageRank Score: 1.7786132520599828E-4
+Document ID: 2731
+	PageRank Score: 3.428694437996174E-4
+Document ID: 2732
+	PageRank Score: 4.992111861715258E-4
+Document ID: 2733
+	PageRank Score: 3.4402919795465504E-4
+Document ID: 2734
+	PageRank Score: 3.2733468820739296E-4
+Document ID: 2735
+	PageRank Score: 2.1365488259888232E-4
+Document ID: 2736
+	PageRank Score: 3.836061347524529E-4
+Document ID: 2737
+	PageRank Score: 2.713394998994745E-4
+Document ID: 2738
+	PageRank Score: 3.7444381307097705E-4
+Document ID: 2739
+	PageRank Score: 1.8441230015092994E-4
+Document ID: 2740
+	PageRank Score: 2.3516520592820197E-4
+Document ID: 2741
+	PageRank Score: 4.734643127096301E-4
+Document ID: 2742
+	PageRank Score: 2.727785672366298E-4
+Document ID: 2743
+	PageRank Score: 3.097282273424635E-4
+Document ID: 2744
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2745
+	PageRank Score: 2.9456783904469963E-4
+Document ID: 2746
+	PageRank Score: 4.663143584637944E-4
+Document ID: 2747
+	PageRank Score: 3.0460317656284114E-4
+Document ID: 2748
+	PageRank Score: 2.1369021808733733E-4
+Document ID: 2749
+	PageRank Score: 3.097282273424635E-4
+Document ID: 2750
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2751
+	PageRank Score: 4.820955852892313E-4
+Document ID: 2752
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2753
+	PageRank Score: 2.021574586459282E-4
+Document ID: 2754
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2755
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2756
+	PageRank Score: 2.0524950512741127E-4
+Document ID: 2757
+	PageRank Score: 3.190934234741002E-4
+Document ID: 2758
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2759
+	PageRank Score: 3.0972822734246457E-4
+Document ID: 2760
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2761
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2762
+	PageRank Score: 2.22468094474714E-4
+Document ID: 2763
+	PageRank Score: 2.1662600396989566E-4
+Document ID: 2764
+	PageRank Score: 3.097282273424635E-4
+Document ID: 2765
+	PageRank Score: 4.7344923464945755E-4
+Document ID: 2766
+	PageRank Score: 2.809142628445594E-4
+Document ID: 2767
+	PageRank Score: 4.551364120986422E-4
+Document ID: 2768
+	PageRank Score: 2.52974538605545E-4
+Document ID: 2769
+	PageRank Score: 2.087115004807438E-4
+Document ID: 2770
+	PageRank Score: 4.2152793327994014E-4
+Document ID: 2771
+	PageRank Score: 3.0720279922659936E-4
+Document ID: 2772
+	PageRank Score: 2.947276076611533E-4
+Document ID: 2773
+	PageRank Score: 2.301884694987123E-4
+Document ID: 2774
+	PageRank Score: 3.0972822734246365E-4
+Document ID: 2775
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2776
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2777
+	PageRank Score: 1.9352408050361063E-4
+Document ID: 2778
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2779
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2780
+	PageRank Score: 3.097282273424636E-4
+Document ID: 2781
+	PageRank Score: 1.622501534164297E-4
+Document ID: 2782
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 2783
+	PageRank Score: 2.6841441275461583E-4
+Document ID: 2784
+	PageRank Score: 3.520961668213604E-4
+Document ID: 2785
+	PageRank Score: 3.215617378884711E-4
+Document ID: 2786
+	PageRank Score: 2.642736250307504E-4
+Document ID: 2787
+	PageRank Score: 2.947276076611532E-4
+Document ID: 2788
+	PageRank Score: 3.0972822734246685E-4
+Document ID: 2789
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2790
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2791
+	PageRank Score: 3.097282273424635E-4
+Document ID: 2792
+	PageRank Score: 3.097282273424671E-4
+Document ID: 2793
+	PageRank Score: 2.7133949989948145E-4
+Document ID: 2794
+	PageRank Score: 3.097282273424634E-4
+Document ID: 2795
+	PageRank Score: 3.640545315603368E-4
+Document ID: 2796
+	PageRank Score: 1.7603511406034532E-4
+Document ID: 2797
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2798
+	PageRank Score: 2.111212569354343E-4
+Document ID: 2799
+	PageRank Score: 3.428694437996174E-4
+Document ID: 2800
+	PageRank Score: 3.097282273424634E-4
+Document ID: 2801
+	PageRank Score: 2.7133949989947576E-4
+Document ID: 2802
+	PageRank Score: 1.8095232003830782E-4
+Document ID: 2803
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2804
+	PageRank Score: 3.097282273424634E-4
+Document ID: 2805
+	PageRank Score: 3.097282273424634E-4
+Document ID: 2806
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2807
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2808
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2809
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2810
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2811
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2812
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2813
+	PageRank Score: 3.097282273424632E-4
+Document ID: 2814
+	PageRank Score: 3.097282273424632E-4
+Document ID: 2815
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2816
+	PageRank Score: 3.8491496250015654E-4
+Document ID: 2817
+	PageRank Score: 2.0501649847626743E-4
+Document ID: 2818
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2819
+	PageRank Score: 1.8442582441812797E-4
+Document ID: 2820
+	PageRank Score: 1.913516200838661E-4
+Document ID: 2821
+	PageRank Score: 1.7470286304296443E-4
+Document ID: 2822
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2823
+	PageRank Score: 3.587541512251512E-4
+Document ID: 2824
+	PageRank Score: 2.2314328518165168E-4
+Document ID: 2825
+	PageRank Score: 3.097282273424675E-4
+Document ID: 2826
+	PageRank Score: 3.097282273424634E-4
+Document ID: 2827
+	PageRank Score: 2.81684064399582E-4
+Document ID: 2828
+	PageRank Score: 3.689263819213183E-4
+Document ID: 2829
+	PageRank Score: 2.603218363482975E-4
+Document ID: 2830
+	PageRank Score: 3.097282273424634E-4
+Document ID: 2831
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2832
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2833
+	PageRank Score: 3.4979345773481353E-4
+Document ID: 2834
+	PageRank Score: 3.845005373019761E-4
+Document ID: 2835
+	PageRank Score: 3.097282273424632E-4
+Document ID: 2836
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2837
+	PageRank Score: 2.1363043701875362E-4
+Document ID: 2838
+	PageRank Score: 2.1793183683806863E-4
+Document ID: 2839
+	PageRank Score: 3.916232986942465E-4
+Document ID: 2840
+	PageRank Score: 4.076598535346396E-4
+Document ID: 2841
+	PageRank Score: 1.9024820936717847E-4
+Document ID: 2842
+	PageRank Score: 4.34866046195204E-4
+Document ID: 2843
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2844
+	PageRank Score: 4.5635341719767056E-4
+Document ID: 2845
+	PageRank Score: 3.337481633504196E-4
+Document ID: 2846
+	PageRank Score: 2.6705013580199277E-4
+Document ID: 2847
+	PageRank Score: 2.9702889678351975E-4
+Document ID: 2848
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2849
+	PageRank Score: 4.0170005781870475E-4
+Document ID: 2850
+	PageRank Score: 2.045242728089526E-4
+Document ID: 2851
+	PageRank Score: 1.9703377194942232E-4
+Document ID: 2852
+	PageRank Score: 3.9700755685778195E-4
+Document ID: 2853
+	PageRank Score: 2.7220627958433733E-4
+Document ID: 2854
+	PageRank Score: 3.097282273424633E-4
+Document ID: 2855
+	PageRank Score: 4.86214879575319E-4
+Document ID: 2856
+	PageRank Score: 4.4125903160556414E-4
+Document ID: 2857
+	PageRank Score: 2.0086536951769717E-4
+Document ID: 2858
+	PageRank Score: 2.6484849225455237E-4
+Document ID: 2859
+	PageRank Score: 3.9660798346916417E-4
+Document ID: 2860
+	PageRank Score: 2.58863101496023E-4
+Document ID: 2861
+	PageRank Score: 3.296462046834157E-4
+Document ID: 2862
+	PageRank Score: 1.67080721529369E-4
+Document ID: 2863
+	PageRank Score: 2.926491578875087E-4
+Document ID: 2864
+	PageRank Score: 2.0593240538587405E-4
+Document ID: 2865
+	PageRank Score: 2.880914004999713E-4
+Document ID: 2866
+	PageRank Score: 4.476085764490759E-4
+Document ID: 2867
+	PageRank Score: 2.3232033542464194E-4
+Document ID: 2868
+	PageRank Score: 4.156735342395829E-4
+Document ID: 2869
+	PageRank Score: 2.4779211595178267E-4
+Document ID: 2870
+	PageRank Score: 3.6434585576630994E-4
+Document ID: 2871
+	PageRank Score: 1.7739522629061836E-4
+Document ID: 2872
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2873
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2874
+	PageRank Score: 4.536863310189624E-4
+Document ID: 2875
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2876
+	PageRank Score: 2.4525304068920436E-4
+Document ID: 2877
+	PageRank Score: 2.0326752291164308E-4
+Document ID: 2878
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 2879
+	PageRank Score: 1.5731534631076624E-4
+Document ID: 2880
+	PageRank Score: 3.09728227342463E-4
+Document ID: 2881
+	PageRank Score: 1.6309965548915638E-4
+Document ID: 2882
+	PageRank Score: 3.1367899524269643E-4
+Document ID: 2883
+	PageRank Score: 2.2913560415506966E-4
+Document ID: 2884
+	PageRank Score: 2.941413005023176E-4
+Document ID: 2885
+	PageRank Score: 3.097282273424641E-4
+Document ID: 2886
+	PageRank Score: 3.865056822284484E-4
+Document ID: 2887
+	PageRank Score: 2.832434745124309E-4
+Document ID: 2888
+	PageRank Score: 2.195017336070547E-4
+Document ID: 2889
+	PageRank Score: 4.452888441885947E-4
+Document ID: 2890
+	PageRank Score: 3.097282273424632E-4
+Document ID: 2891
+	PageRank Score: 3.284511151174677E-4
+Document ID: 2892
+	PageRank Score: 3.097282273424632E-4
+Document ID: 2893
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2894
+	PageRank Score: 2.2358452830538293E-4
+Document ID: 2895
+	PageRank Score: 1.9633771369940902E-4
+Document ID: 2896
+	PageRank Score: 2.8205587521663893E-4
+Document ID: 2897
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2898
+	PageRank Score: 2.097716295942759E-4
+Document ID: 2899
+	PageRank Score: 2.2413405422020137E-4
+Document ID: 2900
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2901
+	PageRank Score: 2.710024474739176E-4
+Document ID: 2902
+	PageRank Score: 5.75470630968885E-4
+Document ID: 2903
+	PageRank Score: 1.7816778069766517E-4
+Document ID: 2904
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 2905
+	PageRank Score: 5.1362496784896E-4
+Document ID: 2906
+	PageRank Score: 1.800313305880042E-4
+Document ID: 2907
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2908
+	PageRank Score: 2.886482549698145E-4
+Document ID: 2909
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2910
+	PageRank Score: 3.0972822734246685E-4
+Document ID: 2911
+	PageRank Score: 4.483255232833047E-4
+Document ID: 2912
+	PageRank Score: 1.979205842400614E-4
+Document ID: 2913
+	PageRank Score: 1.998974972287046E-4
+Document ID: 2914
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2915
+	PageRank Score: 2.2544261361178756E-4
+Document ID: 2916
+	PageRank Score: 2.733536847557089E-4
+Document ID: 2917
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2918
+	PageRank Score: 1.9863177435496072E-4
+Document ID: 2919
+	PageRank Score: 3.286341216226897E-4
+Document ID: 2920
+	PageRank Score: 1.650247615688724E-4
+Document ID: 2921
+	PageRank Score: 2.1283198408203008E-4
+Document ID: 2922
+	PageRank Score: 1.6840007891442838E-4
+Document ID: 2923
+	PageRank Score: 2.1441153615655713E-4
+Document ID: 2924
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2925
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2926
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2927
+	PageRank Score: 5.467628913290483E-4
+Document ID: 2928
+	PageRank Score: 3.884781653129219E-4
+Document ID: 2929
+	PageRank Score: 1.599249995404107E-4
+Document ID: 2930
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2931
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 2932
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 2933
+	PageRank Score: 2.5193214725620903E-4
+Document ID: 2934
+	PageRank Score: 1.5992499954041068E-4
+Document ID: 2935
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2936
+	PageRank Score: 2.726311007914078E-4
+Document ID: 2937
+	PageRank Score: 1.7511565141912388E-4
+Document ID: 2938
+	PageRank Score: 1.7603511406034502E-4
+Document ID: 2939
+	PageRank Score: 3.797558314294365E-4
+Document ID: 2940
+	PageRank Score: 1.6058607184237943E-4
+Document ID: 2941
+	PageRank Score: 3.2415298769921714E-4
+Document ID: 2942
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 2943
+	PageRank Score: 1.981849762393849E-4
+Document ID: 2944
+	PageRank Score: 1.960648256824561E-4
+Document ID: 2945
+	PageRank Score: 2.4870028979423866E-4
+Document ID: 2946
+	PageRank Score: 2.628665488721271E-4
+Document ID: 2947
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2948
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 2949
+	PageRank Score: 3.0972822734246294E-4
+Document ID: 2950
+	PageRank Score: 2.2203351269183347E-4
+Document ID: 2951
+	PageRank Score: 1.695207789347663E-4
+Document ID: 2952
+	PageRank Score: 5.788807502242858E-4
+Document ID: 2953
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 2954
+	PageRank Score: 2.3939908420299956E-4
+Document ID: 2955
+	PageRank Score: 3.066169198903674E-4
+Document ID: 2956
+	PageRank Score: 2.588204623282618E-4
+Document ID: 2957
+	PageRank Score: 2.2607182495135587E-4
+Document ID: 2958
+	PageRank Score: 3.0992291706417787E-4
+Document ID: 2959
+	PageRank Score: 1.7505244182814233E-4
+Document ID: 2960
+	PageRank Score: 1.8825056101654002E-4
+Document ID: 2961
+	PageRank Score: 3.0972822734247894E-4
+Document ID: 2962
+	PageRank Score: 3.296462046834157E-4
+Document ID: 2963
+	PageRank Score: 2.2642546483658127E-4
+Document ID: 2964
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 2965
+	PageRank Score: 3.81241935831231E-4
+Document ID: 2966
+	PageRank Score: 1.9625028421688996E-4
+Document ID: 2967
+	PageRank Score: 1.8022420883182657E-4
+Document ID: 2968
+	PageRank Score: 2.541926680946439E-4
+Document ID: 2969
+	PageRank Score: 3.097282273424629E-4
+Document ID: 2970
+	PageRank Score: 3.0972822734246283E-4
+Document ID: 2971
+	PageRank Score: 3.4288875989962376E-4
+Document ID: 2972
+	PageRank Score: 3.757274901587296E-4
+Document ID: 2973
+	PageRank Score: 2.1493966683059352E-4
+Document ID: 2974
+	PageRank Score: 1.75513898510324E-4
+Document ID: 2975
+	PageRank Score: 1.7153955956664068E-4
+Document ID: 2976
+	PageRank Score: 2.837402969314017E-4
+Document ID: 2977
+	PageRank Score: 2.2683164644535814E-4
+Document ID: 2978
+	PageRank Score: 3.665708302356869E-4
+Document ID: 2979
+	PageRank Score: 3.097282273424627E-4
+Document ID: 2980
+	PageRank Score: 3.097282273424663E-4
+Document ID: 2981
+	PageRank Score: 2.3141884306414077E-4
+Document ID: 2982
+	PageRank Score: 2.261341976028675E-4
+Document ID: 2983
+	PageRank Score: 1.9668866362537252E-4
+Document ID: 2984
+	PageRank Score: 2.142216522336166E-4
+Document ID: 2985
+	PageRank Score: 2.2683164644535814E-4
+Document ID: 2986
+	PageRank Score: 3.06888884653454E-4
+Document ID: 2987
+	PageRank Score: 7.138198397451647E-4
+Document ID: 2988
+	PageRank Score: 3.7131369792153026E-4
+Document ID: 2989
+	PageRank Score: 2.993304614788577E-4
+Document ID: 2990
+	PageRank Score: 1.985420001413052E-4
+Document ID: 2991
+	PageRank Score: 2.2381516713407813E-4
+Document ID: 2992
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 2993
+	PageRank Score: 3.097282273424632E-4
+Document ID: 2994
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2995
+	PageRank Score: 3.097282273424631E-4
+Document ID: 2996
+	PageRank Score: 2.4028177900901947E-4
+Document ID: 2997
+	PageRank Score: 3.865056822284449E-4
+Document ID: 2998
+	PageRank Score: 2.3841491362587049E-4
+Document ID: 2999
+	PageRank Score: 3.097282273424631E-4
+Document ID: 3000
+	PageRank Score: 2.475342771379248E-4
+Document ID: 3001
+	PageRank Score: 2.3251419953515263E-4
+Document ID: 3002
+	PageRank Score: 2.2337932694163403E-4
+Document ID: 3003
+	PageRank Score: 0.0010787222655381998
+Document ID: 3004
+	PageRank Score: 3.520395378849035E-4
+Document ID: 3005
+	PageRank Score: 1.7511565141912398E-4
+Document ID: 3006
+	PageRank Score: 3.901909912378983E-4
+Document ID: 3007
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 3008
+	PageRank Score: 1.7436881358683695E-4
+Document ID: 3009
+	PageRank Score: 2.4212729917368433E-4
+Document ID: 3010
+	PageRank Score: 3.097282273424634E-4
+Document ID: 3011
+	PageRank Score: 4.3241691305853213E-4
+Document ID: 3012
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3013
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 3014
+	PageRank Score: 3.124799147135323E-4
+Document ID: 3015
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3016
+	PageRank Score: 2.1756673275707397E-4
+Document ID: 3017
+	PageRank Score: 1.7787174041823786E-4
+Document ID: 3018
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 3019
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 3020
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3021
+	PageRank Score: 3.7052949187024503E-4
+Document ID: 3022
+	PageRank Score: 2.680509285939225E-4
+Document ID: 3023
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 3024
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3025
+	PageRank Score: 2.2925025978441483E-4
+Document ID: 3026
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3027
+	PageRank Score: 3.097282273424631E-4
+Document ID: 3028
+	PageRank Score: 3.097282273424631E-4
+Document ID: 3029
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3030
+	PageRank Score: 3.8405982548245975E-4
+Document ID: 3031
+	PageRank Score: 2.0349042874314205E-4
+Document ID: 3032
+	PageRank Score: 2.2957404306717534E-4
+Document ID: 3033
+	PageRank Score: 1.465641922920226E-4
+Document ID: 3034
+	PageRank Score: 2.1628059628071172E-4
+Document ID: 3035
+	PageRank Score: 2.268316464453581E-4
+Document ID: 3036
+	PageRank Score: 3.0972822734246305E-4
+Document ID: 3037
+	PageRank Score: 2.23919517037519E-4
+Document ID: 3038
+	PageRank Score: 2.6919302587947785E-4
+Document ID: 3039
+	PageRank Score: 2.323399962339119E-4
+Document ID: 3040
+	PageRank Score: 2.2946219918465737E-4
+Document ID: 3041
+	PageRank Score: 2.9251939114274643E-4
+Document ID: 3042
+	PageRank Score: 2.994602022560596E-4
+Document ID: 3043
+	PageRank Score: 1.9779999116731808E-4
+Document ID: 3044
+	PageRank Score: 1.6561545918674218E-4
+Document ID: 3045
+	PageRank Score: 2.222515545082202E-4
+Document ID: 3046
+	PageRank Score: 2.9702889678351975E-4
+Document ID: 3047
+	PageRank Score: 2.631808746659238E-4
+Document ID: 3048
+	PageRank Score: 3.097282273424631E-4
+Document ID: 3049
+	PageRank Score: 3.602782142260971E-4
+Document ID: 3050
+	PageRank Score: 2.292270528149465E-4
+Document ID: 3051
+	PageRank Score: 2.1962133345892034E-4
+Document ID: 3052
+	PageRank Score: 1.7121710444578106E-4
+Document ID: 3053
+	PageRank Score: 6.046796065655337E-4
+Document ID: 3054
+	PageRank Score: 7.591970243767301E-4
+Document ID: 3055
+	PageRank Score: 2.2616068560908883E-4
+Document ID: 3056
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 3057
+	PageRank Score: 3.0972822734246316E-4
+Document ID: 3058
+	PageRank Score: 2.1685764588997327E-4
+Document ID: 3059
+	PageRank Score: 3.154211384553434E-4
+Document ID: 3060
+	PageRank Score: 2.7481211955339766E-4
+Document ID: 3061
+	PageRank Score: 3.097282273424641E-4
+Document ID: 3062
+	PageRank Score: 3.207681056306412E-4
+Document ID: 3063
+	PageRank Score: 2.1685764588997327E-4
+Document ID: 3064
+	PageRank Score: 3.864549114735218E-4
+Document ID: 3065
+	PageRank Score: 2.4212729917368425E-4
+Document ID: 3066
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3067
+	PageRank Score: 5.106904848659145E-4
+Document ID: 3068
+	PageRank Score: 2.474286247574871E-4
+Document ID: 3069
+	PageRank Score: 1.599249995404103E-4
+Document ID: 3070
+	PageRank Score: 3.742351298373557E-4
+Document ID: 3071
+	PageRank Score: 2.2815751107450904E-4
+Document ID: 3072
+	PageRank Score: 4.0485181413309695E-4
+Document ID: 3073
+	PageRank Score: 3.6985037101618405E-4
+Document ID: 3074
+	PageRank Score: 2.6256078941857376E-4
+Document ID: 3075
+	PageRank Score: 4.941637790470167E-4
+Document ID: 3076
+	PageRank Score: 5.879446346741643E-4
+Document ID: 3077
+	PageRank Score: 2.8207848356311284E-4
+Document ID: 3078
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3079
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3080
+	PageRank Score: 2.4795099676143043E-4
+Document ID: 3081
+	PageRank Score: 1.684000789144285E-4
+Document ID: 3082
+	PageRank Score: 1.6611822855730455E-4
+Document ID: 3083
+	PageRank Score: 3.189989996051098E-4
+Document ID: 3084
+	PageRank Score: 3.097282273424635E-4
+Document ID: 3085
+	PageRank Score: 2.0549857377235052E-4
+Document ID: 3086
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 3087
+	PageRank Score: 2.2296390193091598E-4
+Document ID: 3088
+	PageRank Score: 3.0972822734246354E-4
+Document ID: 3089
+	PageRank Score: 3.0972822734246685E-4
+Document ID: 3090
+	PageRank Score: 3.097282273424635E-4
+Document ID: 3091
+	PageRank Score: 2.0159347901232435E-4
+Document ID: 3092
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3093
+	PageRank Score: 2.5896909832727737E-4
+Document ID: 3094
+	PageRank Score: 2.368704931046615E-4
+Document ID: 3095
+	PageRank Score: 3.097282273424635E-4
+Document ID: 3096
+	PageRank Score: 3.4077591279265155E-4
+Document ID: 3097
+	PageRank Score: 2.312481863402412E-4
+Document ID: 3098
+	PageRank Score: 2.9702889678351975E-4
+Document ID: 3099
+	PageRank Score: 3.069294791688508E-4
+Document ID: 3100
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3101
+	PageRank Score: 3.18762937903944E-4
+Document ID: 3102
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3103
+	PageRank Score: 2.463735006795797E-4
+Document ID: 3104
+	PageRank Score: 3.169350698906512E-4
+Document ID: 3105
+	PageRank Score: 3.7497289586183177E-4
+Document ID: 3106
+	PageRank Score: 4.5841728693156545E-4
+Document ID: 3107
+	PageRank Score: 1.8752123258703932E-4
+Document ID: 3108
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3109
+	PageRank Score: 2.1962133345892036E-4
+Document ID: 3110
+	PageRank Score: 3.2030805122388814E-4
+Document ID: 3111
+	PageRank Score: 2.691930258794778E-4
+Document ID: 3112
+	PageRank Score: 5.220635632581947E-4
+Document ID: 3113
+	PageRank Score: 2.8500931161682086E-4
+Document ID: 3114
+	PageRank Score: 3.207545732966773E-4
+Document ID: 3115
+	PageRank Score: 5.948283629459526E-4
+Document ID: 3116
+	PageRank Score: 3.3118369605260615E-4
+Document ID: 3117
+	PageRank Score: 3.097282273424635E-4
+Document ID: 3118
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3119
+	PageRank Score: 4.394527863093827E-4
+Document ID: 3120
+	PageRank Score: 3.097282273424634E-4
+Document ID: 3121
+	PageRank Score: 3.786720300505542E-4
+Document ID: 3122
+	PageRank Score: 2.6039463646195855E-4
+Document ID: 3123
+	PageRank Score: 4.079505831505049E-4
+Document ID: 3124
+	PageRank Score: 1.7505377505235166E-4
+Document ID: 3125
+	PageRank Score: 3.097282273424634E-4
+Document ID: 3126
+	PageRank Score: 2.3296430537564152E-4
+Document ID: 3127
+	PageRank Score: 2.0496582862219697E-4
+Document ID: 3128
+	PageRank Score: 5.722286555911749E-4
+Document ID: 3129
+	PageRank Score: 2.4303157619728514E-4
+Document ID: 3130
+	PageRank Score: 2.0626236420133467E-4
+Document ID: 3131
+	PageRank Score: 3.607651785816688E-4
+Document ID: 3132
+	PageRank Score: 2.3437464155036308E-4
+Document ID: 3133
+	PageRank Score: 1.885122987047417E-4
+Document ID: 3134
+	PageRank Score: 3.965355421487713E-4
+Document ID: 3135
+	PageRank Score: 2.2246809447471397E-4
+Document ID: 3136
+	PageRank Score: 3.097282273424634E-4
+Document ID: 3137
+	PageRank Score: 3.097282273424635E-4
+Document ID: 3138
+	PageRank Score: 2.4405326398314157E-4
+Document ID: 3139
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3140
+	PageRank Score: 1.9951864049015528E-4
+Document ID: 3141
+	PageRank Score: 3.0972822734246343E-4
+Document ID: 3142
+	PageRank Score: 3.355276128717433E-4
+Document ID: 3143
+	PageRank Score: 2.0915872216051724E-4
+Document ID: 3144
+	PageRank Score: 5.150067595870228E-4
+Document ID: 3145
+	PageRank Score: 1.864563730585953E-4
+Document ID: 3146
+	PageRank Score: 3.097282273424633E-4
+Document ID: 3147
+	PageRank Score: 2.1292693523367788E-4
+Document ID: 3148
+	PageRank Score: 3.8002447546840154E-4
+Document ID: 3149
+	PageRank Score: 3.0972822734246327E-4
+Document ID: 3150
+	PageRank Score: 5.329434236531572E-4
+Document ID: 3151
+	PageRank Score: 2.713394998994741E-4
+Document ID: 3152
+	PageRank Score: 2.2431441536167334E-4
+Document ID: 3153
+	PageRank Score: 2.4275218854299827E-4
+Document ID: 3154
+	PageRank Score: 2.8877296529303525E-4
+Document ID: 3155
+	PageRank Score: 2.768044337465403E-4
+Document ID: 3156
+	PageRank Score: 3.614887126990629E-4
+Document ID: 3157
+	PageRank Score: 1.9711884381820412E-4
+Document ID: 3158
+	PageRank Score: 3.178234509267591E-4
+Document ID: 3159
+	PageRank Score: 2.8284999850329285E-4
+Document ID: 3160
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3161
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3162
+	PageRank Score: 2.1657799295821383E-4
+Document ID: 3163
+	PageRank Score: 3.4077591279265155E-4
+Document ID: 3164
+	PageRank Score: 2.713394998994833E-4
+Document ID: 3165
+	PageRank Score: 2.5262984082231253E-4
+Document ID: 3166
+	PageRank Score: 4.213908543855788E-4
+Document ID: 3167
+	PageRank Score: 2.828499985032929E-4
+Document ID: 3168
+	PageRank Score: 2.8820609450799106E-4
+Document ID: 3169
+	PageRank Score: 1.9417240110225397E-4
+Document ID: 3170
+	PageRank Score: 2.9356225177827757E-4
+Document ID: 3171
+	PageRank Score: 3.097282273424633E-4
+Document ID: 3172
+	PageRank Score: 2.4424384090211806E-4
+Document ID: 3173
+	PageRank Score: 3.097282273424633E-4
+Document ID: 3174
+	PageRank Score: 1.778717404182381E-4
+Document ID: 3175
+	PageRank Score: 3.097282273424632E-4
+Document ID: 3176
+	PageRank Score: 2.329643053756415E-4
+Document ID: 3177
+	PageRank Score: 2.181062389908873E-4
+Document ID: 3178
+	PageRank Score: 6.406890502223377E-4
+Document ID: 3179
+	PageRank Score: 4.015226025713457E-4
+Document ID: 3180
+	PageRank Score: 1.995186404901553E-4
+Document ID: 3181
+	PageRank Score: 1.9951864049015533E-4
+Document ID: 3182
+	PageRank Score: 2.471584432145525E-4
+Document ID: 3183
+	PageRank Score: 1.8981590588118563E-4
+Document ID: 3184
+	PageRank Score: 0.0023144289213488556
+Document ID: 3185
+	PageRank Score: 3.3301370096748865E-4
+Document ID: 3186
+	PageRank Score: 4.2610965441499147E-4
+Document ID: 3187
+	PageRank Score: 2.0294034615083177E-4
+Document ID: 3188
+	PageRank Score: 3.0461318986133105E-4
+Document ID: 3189
+	PageRank Score: 1.881829371727322E-4
+Document ID: 3190
+	PageRank Score: 1.9278731318294543E-4
+Document ID: 3191
+	PageRank Score: 1.8869749273719348E-4
+Document ID: 3192
+	PageRank Score: 1.924765894080422E-4
+Document ID: 3193
+	PageRank Score: 2.3593210454519052E-4
+Document ID: 3194
+	PageRank Score: 3.0972822734248343E-4
+Document ID: 3195
+	PageRank Score: 2.478714444294451E-4
+Document ID: 3196
+	PageRank Score: 3.097282273424774E-4
+Document ID: 3197
+	PageRank Score: 2.217634180721699E-4
+Document ID: 3198
+	PageRank Score: 2.0806858810416219E-4
+Document ID: 3199
+	PageRank Score: 1.7726546223397103E-4
+Document ID: 3200
+	PageRank Score: 1.7726546223397106E-4
+Document ID: 3201
+	PageRank Score: 1.772654622339711E-4
+Document ID: 3202
+	PageRank Score: 1.772654622339711E-4
+Document ID: 3203
+	PageRank Score: 1.772654622339711E-4
+Document ID: 3204
+	PageRank Score: 1.7726546223397111E-4

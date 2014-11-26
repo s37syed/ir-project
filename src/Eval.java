@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
@@ -23,6 +24,7 @@ public class Eval {
 	private static double w2 = 0;
 	private static final int MAX_ITERATIONS = 30;
 	private static final double ALPHA = 0.15;
+	private static final String EVAL_FILE = "eval.txt";
 
 	public static void setTFIDFWeights() {
 		for (Integer docID : documents.keySet()) {
@@ -190,7 +192,7 @@ public class Eval {
 	}
 
 	public static double score(Document doc, Document query) {
-		return w1 * sim(doc,query) + w2 * doc.getPageRank();
+		return w1 * sim(doc,query) + w2 * (doc.getPageRank() * 100);
 	}
 
 	public static void main(String[] args) throws Exception {		
@@ -295,6 +297,9 @@ public class Eval {
 		Set<Double> mapSet = new HashSet<Double>();
 		Set<Double> rPrecisionSet = new HashSet<Double>();
 
+		File evalFile = new File(EVAL_FILE);
+		FileWriter writer = new FileWriter(evalFile);
+		
 		long queryStart = System.currentTimeMillis();
 		double averageRPrecision = 0;
 		double averageMAPValue = 0;
@@ -336,6 +341,10 @@ public class Eval {
 				mapSet.add(totalMAP);
 				averageMAPValue += totalMAP;
 				System.out.println("\tMAP Value = " + totalMAP);
+				writer.write("\nQuery " + queryNum + "\n\tRelevant documents retrieved: " + relevantDocNum +
+						" / Total relevant documents in query: " + r + "\n");
+				writer.write("\tR-Precision = " + rPrecision + "\n");
+				writer.write("\tMAP Value = " + totalMAP + "\n");
 			}
 			else {
 				System.out.println("No match for query " + queryNum + ": " + currentQuery);
@@ -346,5 +355,9 @@ public class Eval {
 		System.out.println("Average MAP Value over "+ queries.size() + " queries = " + (averageMAPValue/mapSet.size()));
 		long queryEnd = System.currentTimeMillis() - queryStart;
 		System.out.println("\nTime required to create MAP and R-Precision values: " + (queryEnd) + " ms");
+		writer.write("Average R-Precision over " + queries.size() + " queries = " + (averageRPrecision/rPrecisionSet.size()) + "\n");
+		writer.write("Average MAP Value over "+ queries.size() + " queries = " + (averageMAPValue/mapSet.size()) + "\n");
+		writer.write("\nTime required to create MAP and R-Precision values: " + (queryEnd) + " ms\n");
+		writer.close();
 	}
 }

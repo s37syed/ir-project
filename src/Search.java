@@ -1,3 +1,6 @@
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.*;
 
 
@@ -17,6 +20,9 @@ public class Search {
 	private static double w2 = 0;
 	private static final int MAX_ITERATIONS = 30;
 	private static final double ALPHA = 0.15;
+	private static final String PAGERANK_FILE = "pageranks.txt";
+	private static double minRank = 0;
+	private static double maxRank = 0;
 
 	public static void setTFIDFWeights() {
 		for (Integer docID : documents.keySet()) {
@@ -152,16 +158,38 @@ public class Search {
 			x = xP;
 		}
 		double sum = 0;
-		for (Integer docID : documents.keySet()) {
-			Document doc = documents.get(docID);
-			doc.setPageRank(x[docID-1]);
-			sum += x[docID-1];
+		minRank = x[0];
+		maxRank = x[0];
+		File pageRankFile = new File(PAGERANK_FILE);
+		try {
+			FileWriter writer = new FileWriter(pageRankFile);
+			for (Integer docID : documents.keySet()) {
+				if (x[docID-1] < minRank) {
+					minRank = x[docID-1];
+				}
+				if (x[docID-1] > maxRank) {
+					maxRank = x[docID-1];
+				}
+				Document doc = documents.get(docID);
+				doc.setPageRank(x[docID-1]);
+				sum += x[docID-1];
+				writer.write("Document ID: " + docID + "\n");
+				writer.write("\tPageRank Score: " + doc.getPageRank() + "\n");
+			}
+			writer.close();
+			System.out.println("Sum of all PageRanks: " + sum);
+		} 
+		catch (IOException e) {
+			e.printStackTrace();
 		}
-		System.out.println("Sum of all PageRanks: " + sum);
+		
+		
 	}
 
 	public static double score(Document doc, Document query) {
-		return w1 * sim(doc,query) + w2 * doc.getPageRank();
+		double similarity = w1 * sim(doc,query);
+		double pageRankScore = w2 * (doc.getPageRank());
+		return similarity + (pageRankScore * 100);
 	}
 
 	public static void main(String[] args) {		
