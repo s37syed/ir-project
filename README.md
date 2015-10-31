@@ -1,4 +1,4 @@
-cps842-project
+ir-project
 ==============
 
 The main aspect of the assignment was to use the CACM collection, which is a standard test collection for IR research. It is a collection of titles and abstracts from a journal - Communications of the ACM (CACM), and includes articles published between 1958 and 1979. There are altogether 3204 documents and 10446 terms. 
